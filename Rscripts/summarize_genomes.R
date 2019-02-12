@@ -6,9 +6,8 @@ library(GenomicFeatures)
 library(dplyr)
 library(RColorBrewer)
 
-
-Source_version = "Ensembl-42"
-species_list = head(read.csv("lib/jgi_fungi.csv",header=T,stringsAsFactors = FALSE))
+source_version = "Ensembl-42"
+species_list = read.csv("lib/jgi_fungi.csv",header=T,stringsAsFactors = FALSE)
 
 drawGeneSummaryFunc <- function(pref) {
   taxonomy = species_list[species_list$Prefix == pref,]$Species
@@ -22,7 +21,8 @@ drawGeneSummaryFunc <- function(pref) {
   } else {
     txdb <- makeTxDbFromGFF(gff_file,
                             dataSource = "Ensembl-42",
-                            organism   = taxonomy)
+                            organism = taxonomy,
+                            taxonomyId = 1)
     saveDb(txdb,dbfile)
   }
   ebg <- exonsBy(txdb, by="gene")
