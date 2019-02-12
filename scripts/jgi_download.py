@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
 
-import os, sys, logging, csv
+import os, sys, logging, csv, re
 
 import xml.etree.ElementTree as ET
 DEBUG=1
+
+skipme='lib/skip_data_jgi.csv'
+
+skip_data = {}
+with open(skipme,'r') as skips:
+    skipread = csv.reader(skips,delimiter=",")
+    skipheader = next(skipread)
+    for row in skipread:
+        if len(row):
+            skip_data[row[0]] = 1
+
 xmlfile ="lib/fungi.xml"
 outdir="source/JGI"
 if not os.path.exists(outdir):
@@ -127,10 +138,17 @@ mapext = {'nuclear': [ 'DNA', 'nt.fasta.gz'],
 with open("lib/jgi_fungi.csv","w") as jgiout:
     with open("lib/jgi_download.sh","w") as dwnload:
         jgicsv = csv.writer(jgiout,delimiter=",")
-        jgicsv.writerow(['Prefix','Species','DNA_URL','MITO_URL',
+        jgicsv.writerow(['Prefix','Species','Full Name','DNA_URL','MITO_URL',
                          'GFF_URL','CDS_URL'])
-        for sp in sorted(species.keys()):            
-            row = ['',sp]
+        for sp in sorted(species.keys()):                  
+            s_sp = re.sub(r'\s*v\d+\.\d+\s*','',sp)
+            s_sp = re.sub(r'\s*\(Environmental single-cell\)\s*','',s_sp)
+            s_sp = re.sub(r'\s+',' ',s_sp)
+            s_sp = re.sub(r'\'','',s_sp)
+            print(s_sp)
+            m = re.split(r'\s+',s_sp,maxsplit=3)
+            print(m)
+            row = [''," ".join(m[0:2]),sp]
             for t in ['nuclear','mito','gff','CDS']:
                 if t in species[sp]:
                     if len(row[0]) == 0:
@@ -143,7 +161,8 @@ with open("lib/jgi_fungi.csv","w") as jgiout:
                                       %(outfile,row[-1]))
                 else:
                     row.append("NO_%s_URL"%(t))
-            jgicsv.writerow(row)
+            if row[0] not in skip_data:
+                jgicsv.writerow(row)
             
 
 
