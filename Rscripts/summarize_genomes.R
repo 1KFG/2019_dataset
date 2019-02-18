@@ -1,3 +1,4 @@
+library(parallel)
 library(ggplot2)
 library(gridExtra)
 library(tximport)
@@ -5,14 +6,25 @@ library(AnnotationDbi)
 library(GenomicFeatures)
 library(dplyr)
 library(RColorBrewer)
+library(Biostrings)
+
+# Calculate the number of cores
+no_cores <- detectCores() - 1
+ 
+# Initiate cluster
+cl <- makeCluster(no_cores)
 
 source_version = "Ensembl-42"
 species_list = read.csv("lib/jgi_fungi.csv",header=T,stringsAsFactors = FALSE)
+#species_list = read.csv("test.csv",header=T,stringsAsFactors = FALSE)
 
-drawGeneSummaryFunc <- function(pref) {
-  taxonomy = species_list[species_list$Prefix == pref,]$Species
+GenomeSummaryFunc <- function(datin) {
+  taxonomy = datin$Species
+  #species_list[species_list$Prefix == pref,]$Species
   dbfile  =  sprintf("tmp/%s.db",pref)
-  gff_file = sprintf("source/JGI/GFF/%s.gff3.gz",pref)
+  gff_file = sprintf("data/GFF3/%s.gff3.gz",pref)
+  dna_file = sprintf("data/DNA/%s.nt.fasta.gz",pref)
+  dna = readDNAStringSet(dna_file)
   print(sprintf("prefix is %s, taxonomy is %s; gff is %s dbfile is %s",pref,
                 taxonomy,gff_file,dbfile))
   
@@ -27,14 +39,14 @@ drawGeneSummaryFunc <- function(pref) {
   }
   ebg <- exonsBy(txdb, by="gene")
   gene_lengths = sum(width(reduce(ebg)))
-  tbg<- transcriptsBy(txdb, by="gene")
+  tbg <- transcriptsBy(txdb, by="gene")
   ibt <- intronsByTranscript(txdb)
   intronct <- elementNROWS(ibt)
 
   txlens <- transcriptLengths(txdb, with.cds_len=TRUE,
                                     with.utr5_len=TRUE,
                                     with.utr3_len=TRUE)
-
+  
   ilens = width(ibt)
   ilens   = unlist(ilens[any(ilens>0)],use.name=FALSE)
   ict   = unlist(lapply(width(ebg),function(i) length(i)-1),use.name=FALSE)
@@ -43,23 +55,28 @@ drawGeneSummaryFunc <- function(pref) {
   ect   = unlist(lapply(width(ebg),function(i) length(i)),use.name=FALSE)
   summarystats = data.frame(
              species        = pref,
-             intronlen_mean = mean(ilens),
-             intronlen_sd  = sd(ilens),
-             intronct_mean  = mean(ict),
-             intronct_sd = sd(ict),
-             exonlen_mean   = mean(elens),
-             exonlen_sd    = sd(elens)
-             )
+             genect         = length(gene_lengths),
+             genelen_mean   = sprintf("%.3f",mean(gene_lengths)),
+             genelen_sd     = sprintf("%.3f",sd(gene_lengths)),
+             intronlen_mean = sprintf("%.3f",mean(ilens)),
+             intronlen_sd   = sprintf("%.3f",sd(ilens)),
+             intronct_mean  = sprintf("%.3f",mean(ict)),
+             intronct_sd    = sprintf("%.3f",sd(ict)),
+             exonlen_mean   = sprintf("%.3f",mean(elens)),
+             exonlen_sd     = sprintf("%.3f",sd(elens)),
+             genome_size    = sum(width(dna)),
+             contig_count   = length(dna)
+  )
   
   txdist <- ggplot(data=txlens,aes(txlens$tx_len)) + 
     geom_histogram(breaks=seq(0,10000,by = 100),fill="slategray") +
-    labs(title=sprintf("%s Tx Length",pref),
+    labs(title=sprintf("%s (%s) Tx Length",taxonomy,pref),
          xlab="Length (bp)") + theme_minimal()
   txdist
 
   ChromTxs = transcripts(txdb)
   chrnames = gsub("_A_fumigatus\\S+","",seqnames(ChromTxs))
-  chrnames = gsub("scf_0+","",chrnames)
+  chrnames = gsub("scaffold_","",chrnames)
   chrnames = gsub("Spom972h_","",chrnames)
   
   d = data.frame(start = start(ChromTxs), 
@@ -81,7 +98,8 @@ drawGeneSummaryFunc <- function(pref) {
   d = droplevels(d)
   
   intdist <- ggplot(data=d,aes(d$introncount)) + geom_histogram(binwidth =1, fill="maroon") +
-    labs(title=sprintf("%s Intron Count",pref),xlab="Intron Count") + theme_minimal()
+    labs(title=sprintf("%s (%s) Intron Count",taxonomy, pref),
+         xlab="Intron Count") + theme_minimal()
   print(intdist)
   
   
@@ -112,28 +130,33 @@ drawGeneSummaryFunc <- function(pref) {
   # reduce the number of chroms to print to the biggest 10
 
   p <- ggplot(d,aes(x=d$pos,y=d$length, color=chr))+geom_point(alpha=0.8,size=1,shape=16) + 
-      scale_color_brewer(palette="Paired",type="seq") + scale_x_continuous(name="Chromosome", expand = c(0, 0),
-                                                                         breaks = ticks,
-                                                                         labels=(unique(d$chr))) +
-      guides(fill = guide_legend(keywidth = 3, keyheight = 1))
-    p + ggtitle(sprintf("%s Gene Length distribution",pref)) + ylab("Gene Length") + theme_minimal()
+      scale_color_brewer(palette="Paired",type="seq") +
+      scale_x_continuous(name="Chromosome", expand = c(0, 0),
+                         breaks = ticks,
+                         labels=(unique(d$chr))) +
+      guides(fill = guide_legend(keywidth = 3, keyheight = 1)) +
+      labs(title=sprintf("%s (%s) Gene Length distribution",taxonomy, pref),
+            ylab="Gene Length") + theme_minimal()
   print(p)
 
   p <- ggplot(d,aes(x=d$pos,y=d$introncount, color=chr))+geom_line(alpha=0.7,size=1) + 
-    scale_color_brewer(palette="Paired",type="seq") + scale_x_continuous(name="Chromosome", expand = c(0, 0),
-                                                                       breaks = ticks,
-                                                                     labels=(unique(d$chr))) +
+      scale_color_brewer(palette="Paired",type="seq") +
+      scale_x_continuous(name="Chromosome", expand = c(0, 0),
+                         breaks = ticks,
+                         labels=(unique(d$chr))) +
     guides(fill = guide_legend(keywidth = 3, keyheight = 1)) +
-    ggtitle(sprintf("%s Intron count",pref)) + ylab("Intron Count") + theme_minimal()
+    ggtitle(sprintf("%s (%s) Intron count",taxonomy, pref)) + ylab("Intron Count") + theme_minimal()
   print(p)
   
   return(summarystats)
 }
-name = species_list[species_list$Prefix == "Aaoar1",]$Species
+#name = species_list[species_list$Prefix == "Aaoar1",]$Species
 speciesct = length(species_list)
 #print(species_list)
+
 pdf(sprintf("%s/%s","plots","chrom_features.pdf"),onefile=TRUE,width=12)
-sumstatslist = sapply(species_list$Prefix,drawGeneSummaryFunc,simplify=FALSE, USE.NAMES=TRUE)
+sumstatslist = parSapply(cl,species_list$Prefix,GenomeSummaryFunc,
+                      simplify=FALSE, USE.NAMES=TRUE)
 sumstats = do.call(rbind, sumstatslist)
 pdf(sprintf("%s/%s","plots","summary_stats.pdf"),onefile=TRUE)
 
@@ -146,6 +169,17 @@ print(p)
 
 p <- ggplot(sumstats, aes(x=intronlen_mean,y=exonlen_mean)) + geom_point() + 
   theme_minimal() + ggtitle("Intron size vs exon size genes (mean)") +
+    scale_color_brewer(palette="Set1") + theme(legend.position="none")
+print(p)
+
+
+p <- ggplot(sumstats, aes(x=intronlen_mean,y=exonlen_mean)) + geom_point() + 
+  theme_minimal() + ggtitle("Intron size vs exon size genes (mean)") +
+    scale_color_brewer(palette="Set1") + theme(legend.position="none")
+print(p)
+
+p <- ggplot(sumstats, aes(x=genome_size,y=genect)) + geom_point() + 
+  theme_minimal() + ggtitle("Genome size vs Gene Count") +
     scale_color_brewer(palette="Set1") + theme(legend.position="none")
 print(p)
 
