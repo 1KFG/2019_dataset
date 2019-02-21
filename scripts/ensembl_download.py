@@ -73,6 +73,13 @@ def download_fasta(ftp_h, remote_dir, local_dir, seqtype, debug):
                         if not os.path.exists(targetfile):
                             ftps.retrbinary("RETR %s"%(seqfile),
                                             open(targetfile,"wb").write)
+                    elif ( seqtype is 'cds' and 
+                           seqfile.endswith(".cds.all.fa.gz")):
+                        if args.debug:
+                           print("get %s to %s" %(seqfile,targetfile))
+                        if not os.path.exists(targetfile):
+                           ftps.retrbinary("RETR %s"%(seqfile),
+                                           open(targetfile,"wb").write)
         else:
             if debug:
                 print(speciesdir)
@@ -136,6 +143,10 @@ DNA_local = os.path.join(args.outdir,"DNA")
 if not os.path.exists(DNA_local):
     os.mkdir(DNA_local)
 
+CDS_local = os.path.join(args.outdir,"CDS")
+if not os.path.exists(CDS_local):
+    os.mkdir(CDS_local)
+
 print(args.featuretype)
 
 if 'gff' in args.featuretype:
@@ -149,6 +160,11 @@ if 'dna' in args.featuretype:
 if 'pep' in args.featuretype:
     fasta_dir=os.path.join(basefolder,'fasta')
     download_fasta(ftps, fasta_dir, pep_local, 'pep', args.debug)
+
+
+if 'cds' in args.featuretype:
+    fasta_dir=os.path.join(basefolder,'fasta')
+    download_fasta(ftps, fasta_dir, CDS_local, 'cds', args.debug)
 
 
         
