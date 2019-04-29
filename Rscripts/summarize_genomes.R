@@ -14,12 +14,13 @@ no_cores <- detectCores() - 1
 # Initiate cluster
 cl <- makeCluster(no_cores)
 
-source_version = "Ensembl-42"
+source_version = "JGI_2019-02"
 species_list = read.csv("lib/jgi_fungi.csv",header=T,stringsAsFactors = FALSE)
 #species_list = read.csv("test.csv",header=T,stringsAsFactors = FALSE)
 
-GenomeSummaryFunc <- function(datin) {
-  taxonomy = datin$Species
+GenomeSummaryFunc <- function(data, sourcever) {
+  taxonomy = data$Species
+  pref     = data$Prefix
   #species_list[species_list$Prefix == pref,]$Species
   dbfile  =  sprintf("tmp/%s.db",pref)
   gff_file = sprintf("data/GFF3/%s.gff3.gz",pref)
@@ -32,7 +33,7 @@ GenomeSummaryFunc <- function(datin) {
     txdb = loadDb(dbfile)
   } else {
     txdb <- makeTxDbFromGFF(gff_file,
-                            dataSource = "Ensembl-42",
+                            dataSource = sourcever,
                             organism = taxonomy,
                             taxonomyId = 1)
     saveDb(txdb,dbfile)
@@ -64,6 +65,7 @@ GenomeSummaryFunc <- function(datin) {
              intronct_sd    = sprintf("%.3f",sd(ict)),
              exonlen_mean   = sprintf("%.3f",mean(elens)),
              exonlen_sd     = sprintf("%.3f",sd(elens)),
+             GC             = sprintf("%.3f",sum(letterFrequency(dna, "GC") / sum(width(dna)))),
              genome_size    = sum(width(dna)),
              contig_count   = length(dna)
   )
@@ -155,32 +157,11 @@ speciesct = length(species_list)
 #print(species_list)
 
 pdf(sprintf("%s/%s","plots","chrom_features.pdf"),onefile=TRUE,width=12)
-sumstatslist = parSapply(cl,species_list$Prefix,GenomeSummaryFunc,
+
+sumstatslist = sapply(species_list,GenomeSummaryFunc,sourcever=source_version,
                       simplify=FALSE, USE.NAMES=TRUE)
 sumstats = do.call(rbind, sumstatslist)
 pdf(sprintf("%s/%s","plots","summary_stats.pdf"),onefile=TRUE)
 
 write.csv(sumstats,file="lib/sumstats_jgi.csv")
 
-p <- ggplot(sumstats, aes(x=intronlen_mean,y=intronct_mean)) + geom_point() + 
-  theme_minimal() + ggtitle("Intron size vs occurance in genes (mean)") +
-    scale_color_brewer(palette="Set1") + theme(legend.position="none")
-print(p)
-
-p <- ggplot(sumstats, aes(x=intronlen_mean,y=exonlen_mean)) + geom_point() + 
-  theme_minimal() + ggtitle("Intron size vs exon size genes (mean)") +
-    scale_color_brewer(palette="Set1") + theme(legend.position="none")
-print(p)
-
-
-p <- ggplot(sumstats, aes(x=intronlen_mean,y=exonlen_mean)) + geom_point() + 
-  theme_minimal() + ggtitle("Intron size vs exon size genes (mean)") +
-    scale_color_brewer(palette="Set1") + theme(legend.position="none")
-print(p)
-
-p <- ggplot(sumstats, aes(x=genome_size,y=genect)) + geom_point() + 
-  theme_minimal() + ggtitle("Genome size vs Gene Count") +
-    scale_color_brewer(palette="Set1") + theme(legend.position="none")
-print(p)
-
-dev.off()
