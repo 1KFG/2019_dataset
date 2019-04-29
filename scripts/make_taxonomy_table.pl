@@ -1,5 +1,6 @@
 #!/usr/bin/env perl
-
+use strict;
+use warnings;
 use Bio::DB::Taxonomy;
 use DB_File;
 
@@ -13,6 +14,7 @@ my $namesfile = 'tmp/taxa/names.dmp';
 my $nodesfile = 'tmp/taxa/nodes.dmp';
 my $indexdir  = 'indexes';
 
+my $db;
 if ( ! -d $indexdir ) {
     mkdir($indexdir);
 }
@@ -27,6 +29,7 @@ if ( -f "$indexdir/nodes") {
 				-namesfile   => $namesfile);
 }
 my $header = <>;
+print $header;
 while(<>) {
     chomp;
     my ($name,$species,$strain,$clade,@rest) = split(/,/,$_);
@@ -39,26 +42,35 @@ while(<>) {
 #	print join(";",($species,$clade)),"\n";
 	my $h = $db->get_taxonid($species_string);
 #	print("taxonid is $h\n");
-	my $node = $db->get_taxon(-taxonid => $h);
-	my @tax;
-	my %ranks;
-	while ( $node ) {	    
-#	    print("rank=",$node->rank, ". node name is ",
-#		  join(",",@{$node->name('scientific')},"\n"));
-	    
-	    if ( $node->rank ne 'no rank' ) {
-		$ranks{$node->rank} = scalar @tax;
-	    }
-
-	    push @tax, [ $node->rank, @{$node->name('scientific')} ];
-	    
-	    $ancestor = $node->ancestor;
-	    $node = $ancestor;
+	
+	if ( ! $h ) {
+	    $h = $db->get_taxonid($genus);
 	}
-	my $str = join(";", map { exists $ranks{$_} ?
-				      join(":",@{$tax[$ranks{$_}]}) : '' }
-		       qw(phylum subphylum class subclass family genus));
-	$lookup{$species_string} = $str;
+	my $node = $db->get_taxon(-taxonid => $h);
+	
+	if ( $node ) {
+	    my @tax;
+	    my %ranks;
+	    while ( $node ) {	    
+		#	    print("rank=",$node->rank, ". node name is ",
+		#		  join(",",@{$node->name('scientific')},"\n"));
+		
+		if ( $node->rank ne 'no rank' ) {
+		    $ranks{$node->rank} = scalar @tax;
+		}
+		
+		push @tax, [ $node->rank, @{$node->name('scientific')} ];
+		
+		my $ancestor = $node->ancestor;
+		$node = $ancestor;
+	    }
+	    my $str = join(";", map { exists $ranks{$_} ?
+					  join(":",@{$tax[$ranks{$_}]}) : '' }
+			   qw(phylum subphylum class subclass family genus));
+	    $lookup{$species_string} = $str;
+	} else {
+	    $str = "";	    
+	}
     }
     print join(",", $name,$species,$strain,$str,@rest),"\n";
 }
