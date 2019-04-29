@@ -36,18 +36,30 @@ while(<>) {
     if ( exists $lookup{$species_string} ) {
 	$str = $lookup{$species_string};
     } else {
-	print($species,$clade);
+#	print join(";",($species,$clade)),"\n";
 	my $h = $db->get_taxonid($species_string);
-	my $node = $h;
+#	print("taxonid is $h\n");
+	my $node = $db->get_taxon(-taxonid => $h);
 	my @tax;
-	while ( $node ) {
-	    push @tax, [ $node->rank, $node->name('scientific')];
+	my %ranks;
+	while ( $node ) {	    
+#	    print("rank=",$node->rank, ". node name is ",
+#		  join(",",@{$node->name('scientific')},"\n"));
+	    
+	    if ( $node->rank ne 'no rank' ) {
+		$ranks{$node->rank} = scalar @tax;
+	    }
+
+	    push @tax, [ $node->rank, @{$node->name('scientific')} ];
+	    
 	    $ancestor = $node->ancestor;
+	    $node = $ancestor;
 	}
-	$str = map { join(":",@{$_}) } ( reverse @tax );
+	my $str = join(";", map { exists $ranks{$_} ?
+				      join(":",@{$tax[$ranks{$_}]}) : '' }
+		       qw(phylum subphylum class subclass family genus));
 	$lookup{$species_string} = $str;
     }
-    print $str,"\n";
-    last;
+    print join(",", $name,$species,$strain,$str,@rest),"\n";
 }
 
