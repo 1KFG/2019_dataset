@@ -8,25 +8,18 @@ $ mv scripts/init_jgi_download.sh.template scripts/init_jgi_download.sh
 ```
 edit init_jgi_download.sh and addin your JGI username and password.
  
-Download the fungi.xml file (or change the code to point to the clade you care about for faster service)
+Download the fungi.xml file (or edit the code change the code in init_jgi_download.sh to be 'pezizomycotina' instead of 'fungi' to point to the clade you care about for faster service)
 ```
 $ bash scripts/init_jgi_download.sh 
 # or
 $ chmod +x scripts/init_jgi_download.sh 
 $ ./scripts/init_jgi_download.sh
-```
-I have previously defined a set of target taxa I want and their species names by parsing the fungi.html file you can get. It may need to be updated if there are more added. Alternatively if you only want some species you can edit this file to include only the ones you want to download
-```
-$ cp lib/jgi_fungi.csv lib/jgi_fungi.csv.backup
-```
-edit jgi_fungi.csv to be only the species you want
-
-```
 $ mkdir -p source/JGI
 $ python scripts/jgi_download.py
 ```
+This creates a file in lib/jgi_download.sh which are a series of 'curl' commands to download GFF, DNA, and CDS. The parsing of the XML does its best but the JGI files are not entirely consistent as to how to encode the presence of multiple versions of an annotation per species. They do not encode 'best and latest' as a category so it is difficult to totally know how to pull the correct one out. So you should check over and make sure you did get what was expected for many. There is a table provided in lib/jgi_fungi.csv to check what was selected. 
 
-if you are running on a machine with multiple processors and you want to parallelize downloading using the unix parallel tool
+If you are running on a machine with multiple processors and you want to parallelize downloading using the unix parallel tool
 ```
 CPU=4 # e.g. 4 CPUs on this machine
 $ cat lib/jgi_download.sh | parallel -j $CPU
