@@ -137,7 +137,7 @@ mapext = {'nuclear': [ 'DNA', 'nt.fasta.gz'],
               'CDS'    : [ 'CDS', 'cds.fasta.gz'] }
 with open("lib/jgi_fungi.csv","w") as jgiout:
     with open("lib/jgi_download.sh","w") as dwnload:
-        jgicsv = csv.writer(jgiout,delimiter=",")
+        jgicsv = csv.writer(jgiout,delimiter=",",lineterminator="\n")
         jgicsv.writerow(['Prefix','Species','Full Name','DNA_URL','MITO_URL',
                          'GFF_URL','CDS_URL'])
         for sp in sorted(species.keys()):                  
