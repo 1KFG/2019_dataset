@@ -110,7 +110,7 @@ parser.add_argument('-v','--verbose', dest='debug',
                     help='Verbosity of output')
 
 parser.add_argument('-r','--release', dest='releasenum',
-                    type=int, default=42,required=False,
+                    type=int, default=44,required=False,
                     help='Release version to download')
 
 parser.add_argument('-t','--type',dest='featuretype', nargs='+',
