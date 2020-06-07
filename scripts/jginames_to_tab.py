@@ -9,6 +9,8 @@ with open(infile,"r") as ifh:
         reader = csv.reader(ifh,delimiter=",")
         writer = csv.writer(ofh,delimiter="\t",lineterminator='\n')
         for line in reader:
+#            print(line)
             name=re.sub(" ","_",line[1])
+            name=re.sub(";","",name)
             name=re.sub("\r","",name)
             writer.writerow([line[2],name])
