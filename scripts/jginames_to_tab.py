@@ -3,8 +3,8 @@ import csv,re
 
 infile="lib/jgi_names.csv"
 outfile="lib/jgi_names.tab"
-
-with open(infile,"r") as ifh:
+enc = 'iso-8859-15'
+with open(infile,"rt",encoding=enc) as ifh:
     with open(outfile,"w") as ofh:
         reader = csv.reader(ifh,delimiter=",")
         writer = csv.writer(ofh,delimiter="\t",lineterminator='\n')
