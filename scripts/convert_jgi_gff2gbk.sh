@@ -27,10 +27,11 @@ TBL=source/JGI/GBK
 ls $GFF/*.gff3  | sed -n ${NUM}p | while read gff 
 do
 	b=$(basename $gff .gff3)
+	mkdir -p $TBL/$b
 	N=$(grep -w $b lib/jgi_names.tab | awk '{print $2}' | perl -p -e 's/_/ /g')
-	funannotate util gff2tbl -g $gff -f $DNA/$b.nt.fasta | perl -p -e 's/jgi\.p\|([^\|]+)\|/$1_/' > $TBL/$b.tbl
-	ln -s $(realpath $DNA/$b.nt.fasta) $TBL/$b.fsa
-	tbl2asn -p $TBL -V b  -M n -r $TBL -n "$N"
+	funannotate util gff2tbl -g $gff -f $DNA/$b.nt.fasta | perl -p -e 's/jgi\.p\|([^\|]+)\|/$1_/' > $TBL/$b/$b.tbl
+	ln -s $(realpath $DNA/$b.nt.fasta) $TBL/$b/$b.fsa
+	tbl2asn -p $TBL/$b -V b -M n -r $TBL -n "$N"
 done
 
 
