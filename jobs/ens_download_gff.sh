@@ -3,4 +3,4 @@
 
 module load python/3
 
-python scripts/ensembl_download.py -t gtf
+python scripts/ensembl_download.py -t gff
