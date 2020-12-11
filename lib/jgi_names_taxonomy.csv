@@ -1,4 +1,4 @@
-portal	name
+portal,species,strain,taxonomy string
 Olpbor1,Olpidium bornovanus,UBC_F19785,phylum:Olpidiomycota;subphylum:Olpidiomycotina;class:Olpidiomycetes;;family:Olpidiaceae;genus:Olpidium
 Aspfl2_3,Aspergillus flavus,NRRL3357,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Piromy_p0_1,Piromyces sp.,UH3-1,phylum:Chytridiomycota;;class:Neocallimastigomycetes;;family:Neocallimastigaceae;genus:Piromyces
