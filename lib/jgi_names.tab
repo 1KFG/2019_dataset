@@ -1,4 +1,362 @@
 portal	name
+Olpbor1	Olpidium_bornovanus_UBC_F19785
+Aspfl2_3	Aspergillus_flavus_NRRL3357_v1.0
+Piromy_p0_1	Piromyces_sp._UH3-1_v2.0
+MroMCA2997_1	Moniliophthora_roreri_MCA_2997
+Suivis2	Suillus_viscidus_S02_v2.0
+Tubmel1	Tuber_melosporum_Tmelo_v1.0
+Tubmes1	Tuber_mesentericum_Tmes4_v1.0
+LedB17_3	Lentinula_edodes_B17_v1.3
+Lened1	Lentinula_edodes_NBRC_111202
+Phchr3_2	Phanerochaete_chrysosporium_RP-78_v3.0
+MoeAD073_1	Linnemannia_elongata_AD073_v1.0
+Moramoe1	Mortierella_alpina_KOD1005_v1.0
+Xylber1	Xylaria_berteri_95101511_v1.0
+Xylcur1	Xylaria_curta_92092022_v1.0
+Roscor1	Rosellinia_corticium_1501_v1.0
+Antleu1	Anthostomella_leucospermi_CBS110126_v1.0
+Anttom1	Anthostomella_tomicoides_1013_v1.0
+LnoICMP18003A_1	Lentinula_novae-zelandiae_ICMP_18003_v1.0
+Tripara1	Trichocoma_paradoxa_CBS_103.73_v1.0
+Metgru1	Metschnikowia_gruessii_VY0332_v1.0
+Cryan3	Cryomyces_antarcticus_CBS_116301_v3.0
+Pcit129764	Phyllosticta_citrichinaensis_CBS_129764_v1.0
+Fusoxalb1	Fusarium_oxysporum_f._sp._albedinis_isolate_9_v1.0
+Cantro1	Candida_tropicalis_MYA3404
+Phlsub1	Phlebia_subcretacea_OMC74_v1.0
+Persub1	Perenniporia_subacida_PersubVin-SM18_v1.0
+Brefa1	Bretziella_fagacearum_C519_v1.0
+Sidvul1	Sidera_vulgaris_OMC_1730_v1.0
+Ustgig1	Ustanciosporium_gigantosporum_RK316_v1.0
+Pyrinf1	Pyrenochaeta_inflorescentiae_CORFU0001_v1.0
+Cersp379_1	Ceratobasidium_sp._379_v1.0
+Cersp423_1	Ceratobasidium_sp._423_v1.0
+Metreu1	Metschnikowia_reukaufii_MR1_v1.1
+Cersp394_1	Ceratobasidium_sp._394_v1.0
+Anokam1	Anomoporia_kamtschatica_OMC1758_v1.0
+Ilyro1	Clonostachys_sp._CORFU0009_v1.0
+Morste1	Morchella_steppicola_PhC_289_v1.0
+LlaRV95_379_1	Lentinula_lateritia_RV95-379_v1.0
+LboTFB10292_1	Lentinula_boryana_TFB10292_v1.0
+Hebvel2	Hebeloma_brunneifolium_PMI1Jessy_v2.0
+Aspcris1	Penicillium_sp._DTU1_v1.0
+IsorIO21_1	Issatchenkia_orientalis_IO21_v1.0
+Nagvi1	Naganishia_vishniacii_ANT03-052_v1.1
+XandeCB38_1	Xanthophyllomyces_dendrorhous_CBS_6938_v1.0
+Tubin1_1	Tuber_indicum_v1.0
+XandeAX4_1	Xanthophyllomyces_dendrorhous_UBV-AX4_v1.0
+Tubbr1_1	Tuber_brumale_v1.0
+Phcapit2	Phyllosticta_capitalensis_CBS_111638_v2.0
+Pcit16586	Phyllosticta_citricarpa_CPC_16586_v1.0
+Pcit141352	Phyllosticta_citricarpa_CBS_141352_v1.0
+Pcitr2	Phyllosticta_citriasiana_CBS_120426_v2.0
+Pcit122482	Phyllosticta_citricarpa_CBS_122482_v1.0
+Phycapi2	Phyllosticta_capitalensis_CBS_173.77_v2.0
+Pcit122670	Phyllosticta_citricarpa_CBS_122670_v1.0
+Pcitri2	Phyllosticta_citriasiana_CBS_123371_v2.0
+Pcit11120	Phyllosticta_citricarpa_CBS_111.20_v1.0
+Pcit120373	Phyllosticta_citricarpa_CBS_102373_v1.0
+Pcit131864	Phyllosticta_citricarpa_CBS_131864_v1.0
+FoxPHW726_1	Fusarium_oxysporum_f._sp._matthiolae_PHW726
+Fox26365_1	Fusarium_oxysporum_NRRL_26365
+Tripop1	Tricholoma_populinum_2016PMI031_v1.0
+Armnov1	Armillaria_novae-zelandiae_2840_v1.0
+Tulinq1	Tulasnella_inquilina_UAMH_7632_v1.0
+Armfum1	Armillaria_fumosa_CBS_122221_v1.0
+Tulsp425_1	Tulasnella_sp._425_v1.0
+Dallocu1	Daldinia_loculatoides_CBS_113279_v1.0
+XyFL0821_1	Xylariaceae_sp._FL0821_v1.0
+Hyppol1	Hypoxylon_polyporus_FL1289_v1.0
+Podjug1	Podosordaria_jugoyasan_CBS_670.77_v1.0
+AnFL0455	Annulohypoxylon_sp._FL0455_v1.0
+Pilbys1	Piloderma_byssinum_4S31_v1.0
+Pilsph1	Piloderma_sphaerosporum_354_v1.0
+Lerce1	Leratiomyces_ceres_mycota028_v1.0
+Neolan1	Neocallimastix_lanati_v1.0
+Lerer1	Leratiomyces_erythrocephalus_mycota031_v1.0
+Pismi2	Pisolithus_microcarpus_441_v2.0
+Pisti2	Pisolithus_tinctorius_Marx_270_v2.0
+Mycoli1	Mycena_olivaceomarginata_CBHHK47/15_v1.0
+Mycpur1	Mycena_pura_9144_v1.0
+Morkaki1	Morchella_kakiicolor_PhC_280_v3.0
+Mycvul1	Mycena_vulgaris_CBHHK164_v1.0
+Morpul1	Morchella_pulchella_Mel-31_v1.0
+Morsem1	Morchella_semilibera_PhC_218_v1.0
+Mycmac1	Mycena_maculata_CBHHK188m_v1.0
+Mordim1	Morchella_diminutiva_Mes-2_v1.0
+Phlfa1	Phleogena_faginea_OMC_1709_v1.0
+Myclep1	Mycena_leptocephala_CBHHK5/15_v1.0
+LacbiD101_1	Laccaria_bicolor_D101_v1.0
+Morfluv1	Morchella_fluvialis_PhC_265_v3.0
+Morpra1	Morchella_prava_Mes-7_v1.0
+Mycpol1	Mycena_polygramma_CBHHK137_v1.0
+Mycgale1	Mycena_galericulata_CBHHK162m_v1.0
+Mycmet1	Mycena_metata_CBHHK182m_v1.0
+Sisser1	Sistotrema_sernanderi_OMC_1753_v1.0
+Sismus1	Sistotrema_muscicola_OMC_1658_v1.0
+Intcon1_1	Intextomyces_contiguus_OMC1699_v1.0
+Phevit1	Phellinus_viticola_PhevitSig-SM15_v1.0
+Gyrinf1	Gyromitra_infula_GyrinfSpk-SM18_v1.0
+Antcit1	Antrodiella_citrinella_FBCC_969_v1.0
+Mordis1	Morchella_disparilis_PhC_293_v1.0
+Suipunc1	Suillus_punctipes_FC325_v1.0
+Suipun1	Suillus_pungens_FC27_v1.0
+Morbru1	Morchella_brunnea_Mel-22_v1.0
+Claaq1	Clavariopsis_aquatica_WDA-00-1
+Veneff1	Venturia_effusa
+Blugra3_16	Blumeria_graminis_f._sp._tritici_96224_v3.16
+Lenzyc1	Lentamyces_zychae_NRRL_2806_v1.0
+Lenpar1	Lentamyces_parricidus_NRRL2409_v1.0
+Morcap1	Mortierella_capitata_AV005_v1.0
+Abscae1	Absidia_caerulea_NRRL1315_v1.0
+Tubcan1	Tuber_canaliculatum_GB_Tcana1_v1.0
+Tubgib1	Tuber_gibbosum_GB_Tgibb2_v1.0
+Chapip1	Chalciporus_piperatus_201810_CP_v1.0
+Lacind1	Lactarius_indigo_2018DUKE089_v1.0
+Morgam1	Mortierella_gamsii_AM1032_v1.0
+Aspflor1	Aspergillus_floridensis_DTO_198-A8_v1.0
+Asptsu1	Aspergillus_tsurutae_IBT_34206_v1.0
+Aspcre1	Aspergillus_cretensis_CBS_112802_v1.0
+Aspshe1	Aspergillus_shendaweii_IBT_34197_v1.0
+Aspvir1	Aspergillus_viridinutans_CBS_127.56_v1.0
+Asppsev1	Aspergillus_pseudoviridinutans_IBT_34175_v1.0
+Asppul1	Aspergillus_pulvericola_CBS_137327_v1.0
+Aspaurful1	Aspergillus_aureofulgens_IBT_27100_v1.0
+Aspses1	Aspergillus_sesamicola_CBS_137324_v1.0
+Aspdro1	Aspergillus_dromiae_CBS_140633_v1.0
+Asppuu1	Aspergillus_puulaauensis_IBT_32284_v1.0
+Aspsep1	Aspergillus_sepultus_CBS_257.85_v1.0
+Aspth1	Aspergillus_thesauricus_IBT_34227_v1.0
+Aspwak1	Aspergillus_waksmanii_IBT_31900_v1.0
+Aspsubr1	Aspergillus_subramanianii_CBS_138230_v1.0
+Asptri1	Aspergillus_trinidadensis_IBT_32571_v1.0
+Aspcu1	Aspergillus_cumulatus_DTO_311-F5_v1.0
+Asppsf1	Aspergillus_pseudofelis_IBT_34107_v1.0
+Aspcreb1	Aspergillus_creber_IBT_32277_v1.0
+Aspnut1	Aspergillus_nutans_CBS_121.56_v1.0
+Asptran1	Aspergillus_transcarpathicus_CBS_423.68_v1.0
+Aspgig1	Aspergillus_giganteus_CBS_515.65_v1.0
+Aspwest1	Aspergillus_westerdijkiae_CBS_112803_v1.0
+Aspoer1	Aspergillus_oerlinghausenensis_CBS_139183_v1.0
+Aspsia1	Aspergillus_siamensis_CBS_137452_v1.0
+Aspcost1	Aspergillus_costiformis_CBS_101749_v1.0
+Asphai1	Aspergillus_haitiensis_CBS_468.91_v1.0
+Aspcle1	Aspergillus_cleistominutus_CBS_200.75_v1.0
+Aspten1	Aspergillus_tennesseensis_IBT_32283_v1.0
+Aspmir1	Aspergillus_miraensis_CBS_140625_v1.0
+Aspaff1	Aspergillus_affinis_CBS_129190_v1.0
+Asptem1	Aspergillus_templicola_CBS_138181_v1.0
+Aspneoc1	Aspergillus_neoconicus_CBS_233.90_v1.0
+Aspneow1	Aspergillus_neowarcupii_IBT_29024_v1.0
+Aspcer1	Aspergillus_cervinus_CBS_196.64_v1.0
+Aspden1	Aspergillus_dentatus_CBS_114.63_v1.0
+Mycind1	Mycotypha_indica_IMI_211999_v1.0
+FenlinCB54_1	Fennellomyces_linderi_CBS_158.54_v1.0
+Piromy1	Piromyces_sp._UH3-1_v1.0
+Clarep1_1	Cladochytrium_replicatum_JEL_714_v1.0
+Phybl_L51_1	Phycomyces_blakesleeanus_L51_v1.0
+Moreoh1	Morchella_eohespera_Mel-19_v1.0
+Morper1	Morchella_peruviana_NRRL_66754_v1.0
+Morpun1	Morchella_punctipes_GB769_v1.0
+Loppic1	Lophodermium_piceae_NOR1-14_p44_v1.0
+Morang1	Morchella_angusticeps_Mel-15_v1.0
+Morhis1	Morchella_hispaniolensis_Mel-18_v1.0
+Pycful1	Pycnoporellus_fulgens_PcyfulGre-SM17_v1.0
+Suioch1	Suillus_ochraceoroseus_FC498_v1.0
+SuiFC429_1	Suillus_sp._nov._FC429_v1.0
+Suicol1	Suillus_collinitus_S28_v1.0
+Xentul1	Xenasmatella_tulasnelloidea_OMC1662_v1.0
+Tylas1	Cantharellales_sp._MUCL_035158_v1.0
+Plecucu2	Plectosphaerella_cucumerina_MPI-SDFR-AT-0117_v2.0
+Disven1	Disciotis_venosa_NRRL_24433_v1.0
+Vercon1	Verpa_conica_TJ0815_v1.0
+Cercru1	Cerinomyces_crustulinus_OMC1686_v1.0
+Serbor1	Serpulomyces_borealis_OMC1750_v1.0
+Dactort1	Dacrymyces_tortus_OMC1693_v1.0
+Uniuni1	Unilacryma_unispora_MAFF_240146_v1.0
+CorKIS3_1	Cortinarius_sp._KIS3-TL2766_v1.0
+FoxMRL8996	Fusarium_oxysporum_MRL8996_v1.0
+SchcoZB1	Schizophyllum_commune_ZB1_v1.0
+SchcoZB2	Schizophyllum_commune_ZB2_v1.0
+FoxF1010_1	Fusarium_oxysporum_F10-10_v1.0
+FoxF201_1	Fusarium_oxysporum_F2-01_v1.0
+FoxF206_1	Fusarium_oxysporum_F2-06_v1.0
+FoxF1008_1	Fusarium_oxysporum_F10-08_v1.0
+FoxF207_1	Fusarium_oxysporum_F2-07_v1.0
+FoxF1003_1	Fusarium_oxysporum_F10-03_v1.0
+FoxF204_1	Fusarium_oxysporum_F2-04_v1.0
+FoxF202_1	Fusarium_oxysporum_F2-02_v1.0
+FoxF1004_1	Fusarium_oxysporum_F10-04_v1.0
+Schrad1	Schizophyllum_radiatum_CBS_301.32_v1.0
+Suisib1	Suillus_cf._sibiricus_RUI384_v1.0
+Suiqui1	Suillus_quiescens_FC197_v1.0
+Suielb1	Suillus_elbensis_FC64_v1.0
+Suipse1	Suillus_pseudogranulatus_FC45_v1.0
+Golor4	Golovinomyces_orontii_MGH1_v4.0
+LeugonAS2_1	Leucoagaricus_gongylophorus_AS2_v1.0
+Bgh5874_1	Blumeria_graminis_f._sp._hordei_5874_v1.0
+Leugon1	Leucoagaricus_gongylophorus_AB2_v1.0
+Erypi2	Erysiphe_pisi_Palampur-1_v2.0
+LeugonAL2_1	Leucoagaricus_gongylophorus_AL2_v1.0
+Phcap1	Phyllosticta_capitalensis_CBS_117118_v1.0
+Phcapi1	Phyllosticta_capitalensis_CBS_356.52_v1.0
+Pcapi1	Phyllosticta_capitalensis_CBS_123374_v1.0
+Suiplac1	Suillus_placidus_S07_v1.0
+Morwol1	Mortierella_wolfii_NRRL_6351_v1.0
+Schseg1_1	Scheffersomyces_segobiensis_NRRL_Y-11571T_v1.0
+Suiplo1	Suillus_plorans_S12_v1.0
+Suivari1	Suillus_cf._variegatus_FC465_v1.0
+Moramb1	Mortierella_ambigua_NRRL_28271_v1.0
+PhyblU21_2	Phycomyces_blakesleeanus_UBC21_v2.0
+Filflo1	Filobasidium_floriforme_CBS_6241_v1.0
+Aspass1	Aspergillus_assulatus_CBS_27911_v1.0
+Asptan1	Aspergillus_tanneri_DTO_303-18_v1.0
+Aspcalif1	Aspergillus_californicus_CBS_123895_v1.0
+Asphethal1	Aspergillus_heterothallicus_CBS_489.65_v1.0
+Asplaci1	Aspergillus_laciniosus_CBS_117721_v1.0
+Aspbot1	Aspergillus_botucatensis_CBS_114221_v1.0
+Aspger1	Aspergillus_germanicus_CBS_123887_v1.0
+Aspkev1	Aspergillus_keveii_CBS_209.92_v1.0
+Asppterr1	Aspergillus_pseudoterreus_DTO_47-E6_v1.0
+Aspsublat1	Aspergillus_sublatus_IBT_19356_v1.0
+Aspaurlut1	Aspergillus_aureoluteus_CBS_105.55_v1.0
+Aspiiz1	Aspergillus_iizukae_CBS_541.69_v1.0
+Asparx1	Aspergillus_arxii_CBS_52583_v1.0
+Aspneoi1	Aspergillus_neoindicus_CBS_444.75_v1.0
+Aspcorea1	Aspergillus_coreanus_CBS_117059_v1.0
+Aspins1	Aspergillus_insuetus_CBS_107.25_v1.0
+Aspneof1	Aspergillus_neoflavipes_CBS_260.73_v1.0
+Aspbre1	Aspergillus_brevipes_CBS_118.53_v1.0
+Aspfer1	Aspergillus_ferenczii_CBS_121594_v1.0
+Aspramb1	Aspergillus_rambellii_100887_v1.0
+Asppal1_1	Aspergillus_paleaceus_CBS_498.65_v1.0
+Aspign1	Aspergillus_igneus_CBS_466.65_v1.0
+Aspgal1	Aspergillus_galapagensis_CBS_117522_v1.0
+Aspquaf1	Aspergillus_quadrilineatus_(floriformis)_CBS_937.73_v1.0
+Aspquag1	Aspergillus_quadrilineatus_(gemmatus)_CBS_853.96_v1.0
+Asptur1	Aspergillus_turcosus_IBT_27921_v1.0
+Asphir1	Aspergillus_hiratsukae_CBS_294.93_v1.0
+Aspfumig1	Aspergillus_fumigatiaffinis_CBS_117186_v1.0
+Asppri1	Aspergillus_primulinus_CBS_253.94_v1.0
+Aspfumis1	Aspergillus_fumisynnematus_IBT_28474_v1.0
+Asplen1	Aspergillus_lentulus_CBS_117885_v1.0
+Aspflo1	Aspergillus_floccosus_CBS_116.37_v1.0
+Asppap1	Aspergillus_papuensis_CBS_841.96_v1.0
+Aspcanin1	Aspergillus_caninus_CBS_128032_v1.0
+Sarstr1	Sarocladium_strictum_UNK_v1.0
+Aspfla1	Aspergillus_flavipes_CBS_22552_v1.0
+Aspbip1	Aspergillus_biplanus_CBS_468.65_v1.0
+Aspfre1	Aspergillus_frequens_CBS_586.65_v1.0
+Aspchr1	Aspergillus_chrysellus_CBS_472.65_v1.0
+Aspamoe1	Aspergillus_amoeneus_CBS_111.32_v1.0
+Aspfloc1	Aspergillus_flocculosus_v1.0
+Aspspi1	Aspergillus_spinosus_CBS_483.65_v1.0
+Aspfru1	Aspergillus_fructiculosus_v1.0
+Aspalli1	Aspergillus_alliaceus_CBS_536.65_v1.0
+Aspspa1	Aspergillus_spathulatus_CBS_408.89_v1.0
+Asppdef1	Aspergillus_pseudodeflectus_v1.0
+Aspdur1	Aspergillus_duricaulis_CBS_481.65_v1.0
+Aspcap1	Aspergillus_capensis_CBS_138188_v1.0
+Aspnis1	Aspergillus_nishimurae_IFM_54133_v1.0
+Aspala1	Aspergillus_alabamensis_v1.0
+Aspall1	Aspergillus_allahabadii_v1.0
+Aspcru1	Aspergillus_crustosus_CBS_478.65_v1.0
+Aspluc1	Aspergillus_lucknowensis_CBS_449.75_v1.0
+Aspthe1	Aspergillus_thermomutatus_v1.0
+Asposti1	Aspergillus_ostianus_v1.0
+Aspfove1	Aspergillus_foveolata_CBS_279.81_v1.0
+Aspper1	Aspergillus_persii_CBS_112795_v1.0
+Asppet1	Aspergillus_petrakii_CBS_105.57_v1.0
+Asptetr1	Aspergillus_tetrazonus_CBS_591.65A_v1.0
+Asplon1	Aspergillus_longivesica_v1.0
+Asprhi1	Aspergillus_rhizopodus_v1.0
+Aspnav1_1	Aspergillus_navahoensis_v1.0
+Aspsub1	Aspergillus_subauricomus_CBS_638.78_v1.0
+Aspgra1	Aspergillus_granulosus_CBS_588.65_v1.0
+Aspmult1	Aspergillus_multiplicatus_CBS_646958_v1.0
+Aspspe1_1	Aspergillus_spectabilis_CBS_429.77A_v1.0
+Asppust1	Aspergillus_pseudoustus_CBS_123904_v1.0
+Aspsul1	Aspergillus_sulphureus_CBS_550.65_v1.0
+Aspele1	Aspergillus_elegans_CBS_116.39_v1.0
+Aspfalc1	Aspergillus_falconensis_CBS_271.91_v1.0
+Aspkar1	Aspergillus_karnatakaensis_CBS_102800_v1.0
+Aspvar1	Aspergillus_varians_CBS_505.65_v1.0
+Aspsil1	Aspergillus_silvaticus_CBS_128.55_v1.0
+Aspsim1_1	Aspergillus_similis_v1.0
+Asplup1	Aspergillus_luppii_CBS_653.74_v1.0
+Aspamb1	Aspergillus_ambiguus_v1.0
+Aspaur1	Aspergillus_aureoterreus_v1.0
+Aspmuri1	Aspergillus_muricatus_v1.0
+Asppern1	Aspergillus_pernambucoensis_CBS_137449_v1.0
+Aspaurlat1	Aspergillus_aureolatus_CBS_190.65_v1.0
+Aspcla1	Aspergillus_clavatonanicus_v1.0
+Aspwes1	Aspergillus_westlandensis_CBS_123905_v1.0
+Aspaste1	Aspergillus_astellatus_v1.0
+Aspmic1	Aspergillus_microcysticus_CBS_120.58_v1.0
+Aspnaka1	Aspergillus_nakazawae_v1.0
+Aspaura1	Aspergillus_aurantiobrunneus_CBS_465.65_v1.0
+Asppari1	Aspergillus_parvisclerotigenus_CBS_121.62_v1.0
+DallocAZ0526_2	Daldinia_loculata_AZ0526_v2.0
+Durrog2	Durotheca_rogersii_YMJ_92031201_v1.0
+Aspimp1	Aspergillus_implicatus_CBS_484.95_v1.0
+Asplep1	Aspergillus_leporis_CBS_151.66_v1.0
+XyFL0804_2	Xylariaceae_sp._FL0804_v2.0
+XyFL0064_1	Xylaria_sp._FL0064_v1.0
+Hypsub2	Hypoxylon_submonticulosum_NC0708_v2.0
+HyFL1284_2	Hypoxylon_sp._FL1284_v2.0
+XyAK1471_1	Xylariaceae_sp._AK1471_v1.0
+Xylhel2	Xylaria_cf._heliscus_FL0509_v2.0
+Capfu1	Capronia_fungicola_CBS_614.96_v1.0
+Atrpi1	Atropellis_piniphila_CBS_197.64_v1.0
+Bolcoc1	Boletus_coccyginus_2016PMI039_v1.0
+PhlFC14_2	Phlebopus_sp._FC_14_v2.0
+Pisori2	Pisolithus_orientalis_OTSU_v2.0
+Pgt_Ug99_A1	Puccinia_graminis_f._sp._tritici_Ug99_haplotype_A
+Pgt_Ug99_C1	Puccinia_graminis_f._sp._tritici_Ug99_haplotype_C
+Pgt_201_A1	Puccinia_graminis_f._sp._tritici_21-0_haplotype_A
+Pgt_201_B1	Puccinia_graminis_f._sp._tritici_21-0_haplotype_B
+Altfr1	Alternaria_fragaria_BMP3062
+Altca1	Alternaria_capsici_BMP0180
+Altci1	Alternaria_citriarbusti_BMP2343
+XyFL1272_2	Xylariaceae_sp._FL1272_v2.0
+Hypfra2	Hypoxylon_fragiforme_CBS_206.31_v2.0
+Ellano2	Ellisomyces_anomalus_CBS_243.57_v2.0
+LboTFB7810_1	Lentinula_boryana_TFB7810_v1.0
+NeFL0031_2	Nemania_sp._FL0031_v2.0
+Hyafin1	Hyaloscypha_finlandica_PMI_746_v1.0
+HyNC1633_2	Hypoxylon_sp._NC1633_v2.0
+Altga1	Alternaria_gaisen_BMP2338
+Alalte1	Alternaria_alternata_ATCC66891
+Altcar1	Alternaria_carthami_BMP1963
+Altpo1	Alternaria_porri_BMP0178
+Altar1	Alternaria_arborescens_BMP0308
+Altta1	Alternaria_tangelonis_BMP2327
+Altte1	Alternaria_tenuissima_BMP0304
+Altcr1	Alternaria_crassa_BMP0172
+Alalt1	Alternaria_alternata_ATCC11680
+Aalte1	Alternaria_alternata_BMP0270
+Amal3064	Alternaria_mali_BMP3064
+Amal3063	Alternaria_mali_BMP3063
+Altso1	Alternaria_solani_BMP0185
+Albra1	Alternaria_brassicicola_ATCC96836
+Altda1	Alternaria_dauci_BMP0167
+Altli1	Alternaria_limoniasperae_BMP2335
+Altlo1	Alternaria_longipes_BMP0313
+Altma1	Alternaria_macrospora_BMP1949
+MorAD185_1_1	Mortierella_sp._AD185_v1.0
+PlePMI138_1	Pleosporaceae_sp._PMI_138_v1.0
+Leuca1	Leucangium_carthusianum_GMNB180_v1.0
+FusoxFo47	Fusarium_oxysporum_Fo47
+Fusoxmel1	Fusarium_oxysporum_f._sp._melonis_(FoMelon)_NRRL_26406
+Fusoxcon1	Fusarium_oxysporum_f._sp._conglutinans_race_2_54008_(PHW808)
+Fusoxlyc1	Fusarium_oxysporum_f._sp._lycopersici_MN25_(FoMN25)_NRRL_54003
+Fusoxvas1	Fusarium_oxysporum_f._sp._vasinfectum_25433_(Cotton)
+Fusox32931	Fusarium_oxysporum_NRRL_32931
+LedTMI1633_1	Lentinula_edodes_TMI1633_v1.0
+Fusoxpis1	Fusarium_oxysporum_f._sp._pisi_HDV247
+Fusoxcub1	Fusarium_oxysporum_f._sp._cubense_tropical_race_4_54006_(II5)
+Fusoxrad1	Fusarium_oxysporum_f._sp._radicis-lycopersici_26381_(CL57)
+Fusoxrap1	Fusarium_oxysporum_f._sp._raphani_54005
 Sphbr2	Sphaerosporella_brunnea_Sb_GMNB300_v2.0
 Magor1	Magnaporthe_oryzae_70-15_v3.0
 HyFL1150_1	Hypoxylon_sp._FL1150_v1.0
@@ -6,7 +364,7 @@ Xylni1	Xylaria_nigripes_YMJ_653_v1.0
 Xy124048_1	Xylaria_sp._CBS_124048_v1.0
 Hyparg1	Hypoxylon_argillaceum_CBS_527.63_v1.0
 Xyldig1	Xylaria_digitata_CBS_161.22_v1.0
-Phapa1	Phakopsora_pachyrhizi_MG2006_v1.0
+Phapa1	Phakopsora_pachyrhizi_MT2006_v1.0
 LlaTMI1499_1	Lentinula_lateritia_TMI1499_v1.0
 LedTMI1148_1	Lentinula_edodes_TMI1148_v1.0
 LboTFB7829_1	Lentinula_afn._boryana_TFB7829_v1.0
@@ -31,7 +389,7 @@ Whamic1	Whalleya_microplaca_YMJ1829_v1.0
 Pseule1	Pseudocercospora_ulei_ERN8_v1.0
 Pismi_AB1_1	Pisolithus_sp._B1_v1.0
 Cont1119283	Clitocybe_sp._CONT_1119283_v1.0
-Suisubl1	"Suillus_subluteus""_FC464_v1.0"""
+Suisubl1	Suillus_cf._subluteus_FC464_v1.0
 Suidis1	Suillus_discolor_FC423_v1.0
 Chathe1	Chaetomium_thermophilum_var_thermophilum_DSM_1495
 XylPMI703_1	Xylogone_sp._PMI_703_v1.0
@@ -89,13 +447,13 @@ Xylint1	Xylaria_intraflava_YMJ_725_v1.0
 Xyllon1	Xylaria_longipes_CBS_148.73_v1.0
 Xylscr1	Xylaria_scruposa_CBS_123580_v1.0
 Xylarb124340_1	Xylaria_arbuscula_CBS_124340_v1.0
+Chabre1	Chaetocladium_brefeldii_NRRL_2343_v1.0
 Mitdap1	Mitosporidium_daphniae_UGP3
 LraJLM1587_1	Lentinula_raphanica_JLM1587_v1.0
 LraTFB9207_1	Lentinula_raphanica_TFB9207_v1.0
 MoeNVP64_1	Mortierella_elongata_NVP64_v1.0
-AcreTS7_1	Acremonium_sp._TS7_v1.0
 TyphTRa3160C_1	Typhula_sp._TRa3160C_v1.0
-Ellano1	Ellisomyces_anomalus_CBS_243.57_v1.0
+AcreTS7_1	Acremonium_sp._TS7_v1.0
 Rhiund1	Rhizina_undulata_CBS_300.56_v1.0
 Schcoi1	Scheffersomyces_coipomoensis_NRRL_Y-17651T_v1.0
 Calmar1	Calycina_marina_TRa3180A_v1.0
@@ -104,10 +462,9 @@ Schsti1	Scheffersomyces_stipitis_NRRL_Y-7124_v1.0
 Amyenc1	Amylocarpus_encephaloides_TRa018bII_v1.0
 Schque1	Scheffersomyces_queiroziae_UFMG-CLM-5.1_v1.0
 XylFL2044	Xylariomycetidae_sp._FL2044_v1.0
-Biscog1	Biscogniauxia_sp._genotype_304_FL1348_v1.0
+Biscog1	Biscogniauxia_sp._FL1348_v1.0
 Kredeu1	Kretzschmaria_deusta_IL1129_v1.0
 Astsub1	Astrocystis_sublimbata_CBS_130006_v1.0
-Pis20_1	Phlebopus_sp._FC_14_v1.0
 AurpulNBB1	Aureobasidium_pullulans_NBB_7.2.1_v1.0
 TerNC1134_1	Teratosphaeriaceae__sp._NC1134_v1.0
 Ruseme1	Russula_emetica_P?ilba_v1.0
@@ -120,7 +477,6 @@ XylFL0662B	Xylariaceae_sp._FL0662B_v1.0
 XylFL1042	Xylaria_sp._FL1042_v1.0
 XylFL1019	Xylariaceae_sp._FL1019_v1.0
 XylFL0594	Xylariaceae_sp._FL0594_v1.0
-DallocAZ0526	Daldinia_loculata_AZ0526_v1.0
 Xylgra1	Xylaria_grammica_CBS_120713_v1.0
 XylFL1651	Xylariaceae_sp._FL1651_v1.0
 XylFL0255	Xylariaceae_sp._FL0255_v1.0
@@ -140,12 +496,12 @@ Aspcae1	Aspergillus_caelatus_CBS_763.97_v1.0
 Asppsen1	Aspergillus_pseudonomius_CBS_119388_v1.0
 Asppset1	Aspergillus_pseudotamarii_CBS_117625_v1.0
 Aspser1	Aspergillus_sergii_CBS_130017_v1.0
-Aspcor1	Aspergillus_coremiiformis_CBS_553.77_v1.0
 Aspalbe1	Aspergillus_albertensis_v1.0
 Asptam1	Aspergillus_tamarii_CBS_117626_v1.0
 Asptra1	Aspergillus_transmontanensis_CBS_130015_v1.0
 Aspara19utr	Aspergillus_arachidicola_v1.0
 Asppsec1	Aspergillus_pseudocaelatus_CBS_117616_v1.0
+Aspcor1	Aspergillus_coremiiformis_CBS_553.77_v1.0
 Aspave1	Aspergillus_avenaceus_IBT_18842_v1.0
 LraINPA1820_1	Lentinula_raphanica_INPA1820_v1.0
 Copph3	Coprinus_phaeopunctatus_MPI-PUGE-AT-0042_v1.0
@@ -161,18 +517,20 @@ Myclat1	Mycena_latifolia_10383_v1.0
 Rorror1	Roridomyces_roridus_9284_v1.0
 ClaNC0930_1	Phaeomoniellales__sp._NC0930_v1.0
 ThyNC0857_1	Penicillium_sp._NC0857_v1.0
+Pyrom1	Pyronema_omphalodes_DOB1672_v1.0
 Dacruf1	Dacryonaema_rufum_OMC1653_v1.0
 Crudry1	Crustoderma_dryinum_OMC1663_v1.0
 Radcon1	Radulomyces_confluens_OMC1631_v1.0
 Pormuc1	Porpomyces_mucidus_OMC1666_v1.0
-Zalva1	Zalerion_varium_MPI-CAGE-AT-0135_v1.0
 Chame1	Chaetomium_megalocarpum_MPI-CAGE-AT-0009_v1.0
+Zalva1	Zalerion_varium_MPI-CAGE-AT-0135_v1.0
 Schco2272_1	Schizophyllum_commune_227.2_v1.0
 Schco2271_1	Schizophyllum_commune_227.1_v1.0
 Schco2251_1	Schizophyllum_commune_225.1_v1.0
 Schco2071_1	Schizophyllum_commune_207.1_v1.0
 Schco2231_1	Schizophyllum_commune_223.1_v1.0
-Muccir1_3	Mucor_circinelloides_MU402_v1.0
+Lyoat1	Lyophyllum_atratum_CBS_144462_v1.0
+Muccir1_3	Mucor_lusitanicus_(circinelloides)_MU402_v1.0
 Melme_tre1	Melampsora_medusae_f._sp._tremuloidae_Mmt05Ida529_v1.0
 Rhanym2_1	Rhamphospora_nymphaeae_CBS_172.38_v1.0
 Triple1	Trichoderma_pleuroti_TPhu1
@@ -193,11 +551,11 @@ FusspF10_1	Fusarium_sp._FSSC_10_v1.0
 Verdah1	Verticillium_dahliae_MPI-CAGE-AT-0001_v1.0
 Dactor1	Dacrymyces_fennicus_OMC1656_v1.0
 Aspcar1	Aspergillus_carlsbadensis_CBS_123894_v1.0
-Aspegy1	Aspergillus_egyptiacus_CBS_656.73_v1.0
 Aspnom1	Aspergillus_nomius_IBT_12657_v1.0
 Aspnovo1	Aspergillus_novoparasiticus_CBS_126849_v1.0
 Asppar1	Aspergillus_parasiticus_CBS_117618_v1.0
 Aspmin1	Aspergillus_minisclerotigenes_CBS_117635_v1.0
+Aspegy1	Aspergillus_egyptiacus_CBS_656.73_v1.0
 Mucmuc1	Mucor_mucedo_NRRL_3635_v1.0
 Fimjon1	Fimicolochytrium_jonesii_JEL569_v1.0
 Boledp1	Boletus_edulis_P?ilba_v1.0
@@ -238,6 +596,7 @@ Jimlac1	Jimgerdemannia_lactiflua_OSC166217
 Endsp1	Endogone_sp_FLAS_59071
 Jimfl_AD_1	Jimgerdemannia_flammicorona_AD002
 Pickud1	Pichia_kudriavzevii_CBS573
+Pyrdom1	Pyronema_domesticum_DOB7353_v1.0
 Melbro1	Melanogaster_broomeianus_MBLB.BST_v1.0
 Cervir1	Ceriporia_viridans_OMC1683_v1.0
 Plecto1	Xylariales_sp._AK1849_v1.0
@@ -250,7 +609,6 @@ Tripar1	Trichoderma_parareesei_CBS_125925
 Spogra1_1	Sporobolomyces_gracilis_NRRL_Y-5504_v1.0
 Pensoli1	Penicillium_solitum_IBT_30036_v1.0
 FlaPMI526_1	Flagelloscypha_sp._PMI_526_v1.0
-Lened_B_1_1	Lentinula_edodes_B17_v1.1
 Hethyg1	Heterodoassansia_hygrophilae_CBS_346.65_v1.0
 Suivar1	Suillus_variegatus_UH-Sva-Z1_v1.0
 Echtin1	Echinodontium_tinctorium_Aho-80_v1.0
@@ -357,7 +715,7 @@ Lashi1	Lasiosphaeris_hispida_CBS_955.72_v1.0
 Podap1	Podospora_appendiculata_CBS_314.62_v1.0
 Fusco1	Fusarium_commune_MPI-SDFR-AT-0072_v1.0
 Morsny1	Morchella_snyderi_DOB2414_v1.0
-Copang1	Coprinellus_angulatus_DOB1924_v1.0
+Copang1	Coprinellus_angulatus_CBS_144469_v1.0
 Rhodia1_1	Rhodosporidium_diobovatum_08-225_v1.0
 Hygaur1	Hygrophoropsis_aurantiaca_ATCC_28755_v1.0
 Lopnit1_1	Lophodermium_nitens_PLMe3-1-3_v1.0
@@ -399,7 +757,7 @@ LobpulSw1	Lobaria_pulmonaria_Switzerland_extracted_metagenome_v1.0
 Golci1	Golovinomyces_cichoracearum_UCSC1_v1.0
 Pezech1	Peziza_echinospora_DOB1120_v1.0
 Tripra1	Tricharina_praecox_DOB2270_v1.0
-Phohig1	Pholiota_highlandensis_v1.0
+Phohig1	Pholiota_molesta_CBS_144467_v1.0
 Mormin1_1	Mortierella_minutissima_AD051_v1.0
 Clapol1_1	Cladochytrium_polystomum_WB228_v1.0
 Coemoj1	Coemansia_mojavensis_RSA_71_v1.0
@@ -411,8 +769,8 @@ Lepor2	Leptodontidium_orchidicola_MPI-SDFR-AT-0119_v2.0
 Phimu1	Leotiomycetes_sp._MPI-SDFR-AT-0126_v1.0
 Psicub1_1	Psilocybe_cubensis_v1.0
 Boeex1	Boeremia_exigua_MPI-SDFR-AT-0100_v1.0
-Rhesp1	Rhexocercosporidium_sp._MPI-PUGE-AT-0058_v1.0
 Caecom1	Caecomyces_churrovis_A_v1.0
+Rhesp1	Rhexocercosporidium_sp._MPI-PUGE-AT-0058_v1.0
 Bysni1	Paecilomyces_niveus_CO7_v1.0
 Talabor1	Talaromyces_borbonicus_CBS_141340_
 Mycflo1	Mycena_floridula_CBHHK072_v1.0
@@ -430,33 +788,33 @@ Sorbr1	Sordaria_brevicollis_FGSC1904_v1.0
 Cersc1	Cercophora_scortea_SMH4131-1_v1.0
 Aspsc1	Aspergillus_sclerotiorum_CBS_549.65_v1.0
 Aspung1	Aspergillus_unguis_CBS132.55_v1.0
-Aspres1	Aspergillus_restrictus_CBS_118.33_v1.0
 Asptr1	Aspergillus_triticus_CBS266.81_v1.0
 Aspven1	Aspergillus_venezuelensis_CBS_868.97_v1.0
-Aspne1	Aspergillus_neoechinulatus_CBS120.55_v1.0
-Aspamy1	Aspergillus_amylovorus_CBS_600.67_v1.0
 Aspwel1	Aspergillus_welwitschiae_CBS139.54b_v1.0
 Aspros1	Aspergillus_roseoglobulosus_CBS112800_v1.0
 Aspneoa1	Aspergillus_neoauricomus_CBS112787_v1.0
-Aspinso1	Aspergillus_insolitus_CBS_384.61_v1.0
+Aspres1	Aspergillus_restrictus_CBS_118.33_v1.0
+Aspne1	Aspergillus_neoechinulatus_CBS120.55_v1.0
+Aspamy1	Aspergillus_amylovorus_CBS_600.67_v1.0
 Aspchev1	Aspergillus_chevalieri_CBS_522.65_v1.0
-Aspbisp1	Aspergillus_bisporus_CBS_707.71_v1.0
 Aspparv1	Aspergillus_parvulus_CBS_136.61_v1.0
 Aspstec1_1	Aspergillus_stercoraria_CBS_428.93_v1.0
 Aspfili1	Aspergillus_filifera_CBS_114510_v1.0
 Aspbrev1	Aspergillus_brevijanus_CBS_111.46_v1.0
-Asppeni1	Aspergillus_penicilloides_CBS_540.65_v1.0
 Aspmul1_1	Aspergillus_multicolor_v1.0
 Aspoli1_1	Aspergillus_olivicola_v1.0
 Aspdese1	Aspergillus_desertorum_CBS_653.73_v1.0
 Aspund1_1	Aspergillus_undulatus_CBS_261.88_v1.0
-Aspfuni1	Aspergillus_funiculosus_CBS_116.56_v1.0
 Asprec1_1	Aspergillus_recurvatus_v1.0
-Asprobu1	Aspergillus_robustus_CBS_428.77_v1.0
 Aspstel1_1	Aspergillus_stella-maris_CBS_113639_v1.0
 Aspacri1	Aspergillus_acristatulus_CBS_119.55_v1.0
+Aspinso1	Aspergillus_insolitus_CBS_384.61_v1.0
+Aspbisp1	Aspergillus_bisporus_CBS_707.71_v1.0
+Asppeni1	Aspergillus_penicilloides_CBS_540.65_v1.0
+Aspfuni1	Aspergillus_funiculosus_CBS_116.56_v1.0
+Asprobu1	Aspergillus_robustus_CBS_428.77_v1.0
 Aspind2_1	Aspergillus_indicus_v2.0
-Crafun1	Crassisporium_funariophilum_DOB1098_v1.0
+Crafun1	Crassisporium_funariophilum_CBS_144457_v1.0
 Abobi1	Abortiporus_biennis_CCBS_521_v1.0
 Pipbet1_1	Fomitopsis_betulina_CIRM-BRFM_1772_v1.1
 Amylap1_1	Amylocystis_lapponica_SKaAmylap13_v1.0
@@ -488,10 +846,10 @@ Mycbel1	Mycena_belliae_CBHHK173m_v1.0
 Ustma2_2	Ustilago_maydis_521_v2.0
 Olipa1	Oliveonia_pauxilla_MPI-PUGE-AT-0066_v1.0
 Paevar1	Paecilomyces_variotii_CBS_101075_v1.0
-Penswi1	Penicillium_swiecickii_182_6C1_v1.0
 Parch1	Paraphoma_chrysanthemicola_MPI-GEGE-AT-0034_v1.0
 Fusoxy1	Fusarium_oxysporum_MPI-SDFR-AT-0094_v1.0
 Achstr1	Achaetomium_strumarium_CBS333.67_v1.0
+Penswi1	Penicillium_swiecickii_182_6C1_v1.0
 Lasov1	Lasiosphaeria_ovina_CBS_958.72_v1.0
 Poddi1	Podospora_didyma_CBS_232.78_v1.0
 Apope1	Apodospora_peruviana_CBS_118394_v1.0
@@ -609,8 +967,8 @@ Rusvin1	Russula_vinacea_BPL710_v1.0
 Greab1	Gremmeniella_abietina_DAOM_170408_v1.0
 Colac2	Colletotrichum_acutatum_CBS_112980_v2.0
 Aspnom13137_1	Aspergillus_nomius_NRRL_13137
-Aspcal1	Aspergillus_calidoustus
 Aspuda1	Aspergillus_udagawae_IFM_46973
+Aspcal1	Aspergillus_calidoustus
 Sclsan1	Sclerophora_sanguinea_CBS100924_v1.0
 Phycitr1	Phyllosticta_citricarpa_CBS_127454_v1.0
 Colna1	Colletotrichum_navitas_CBS125086_v1.0
@@ -630,7 +988,7 @@ LecAK0013_1	Lecythophora_sp._AK0013_v1.0
 Muloch1	Multifurca_ochricompacta_BPL690_v1.0
 Ruscom1	Russula_compacta_BPL669_v1.0
 Tercla1	Terfezia_claveryi_T7_v1.0
-Lacsub1	Lactifluus_subvellereus_BPL653_v1.0
+Lacsub1	Lactifluus_cf._subvellereus_BPL653_v1.0
 Mycrub1	Mycena_capillaripes_Frankland_9286_v1.0
 Lobpul1	Lobaria_pulmonaria_Scotland_reference_genome_v1.0
 Panpap1	Panaeolus_papilionaceus_CIRM-BRFM_715_v1.0
@@ -676,14 +1034,13 @@ Aspvad1	Aspergillus_vadensis_CBS_113365_v1.0
 Aspvio1	Aspergillus_violaceofuscus_CBS_115571_v1.0
 Aspeuc1	Aspergillus_eucalypticola_CBS_122712_v1.0
 Asphet1	Aspergillus_heteromorphus_CBS_117.55_v1.0
-Lacvol1	Lactifluus_volemus_BPL652_v1.0
+Lacvol1	Lactifluus_cf._volemus_BPL652_v1.0
 Aspcos1	Aspergillus_costaricaensis_CBS_115574_v1.0
 Rusbre1	Russula_brevipes_BPL707_v1.0
 Aspscle1	Aspergillus_sclerotiicarbonarius_CBS_121057_v1.0
 XylPMI506	Xylariales_sp._PMI_506_v1.0
 Aspbru1	Aspergillus_brunneoviolaceus_CBS_621.78_v1.0
 Aspscl1	Aspergillus_sclerotioniger_CBS115572_v1.0
-Talpro1	Talaromyces_proteolyticus_PMI_201_v1.0
 Aspjap1	Aspergillus_japonicus_CBS_114.51_v1.0
 Aspneo1	Aspergillus_neoniger_CBS_115656_v1.0
 Aspell1	Aspergillus_ellipticus_CBS_707.79_v1.0
@@ -698,6 +1055,7 @@ Crypo1	Cryptodiaporthe_populea_CFL2025_v1.0
 Bisnum1	Biscogniauxia_nummularia_v1.0
 Asplac1	Aspergillus_niger_(lacticoffeatus)_CBS_101883_v1.0
 MarPMI226	Mariannaea_sp._PMI_226_v1.0
+Talpro1	Talaromyces_proteolyticus_PMI_201_v1.0
 Ilyrob1	Ilyonectria_robusta_PMI_751_v1.0
 Lycper1	Lycoperdon_perlatum_FP-102459-T_v1.0
 Gymear1	Gymnopus_earleae_GB-263.02_v1.0
@@ -823,7 +1181,7 @@ PhaPMI808	Phaeosphaeriaceae_sp._PMI_808_v1.0
 Cananz1	Cantharellus_anzutake_C23_v1.0
 Pycpun1	Pycnoporus_puniceus_CIRM-BRFM_1868_v1.0
 Aciaci1	Acidothrix_acidophila_CBS_136259_v1.0
-Triasp1	Trichoderma_asperellum_TR356_v1.0
+Triasp1	Trichoderma_asperelloides_TR356_v1.0
 Trihar1	Trichoderma_harzianum_TR274_v1.0
 Artele1122_1	Artolenzites_elegans_CIRM-BRFM_1122_v1.0
 Synrac1	Syncephalastrum_racemosum_NRRL_2496_v1.0
@@ -840,11 +1198,11 @@ Colsa1	Colletotrichum_salicis_CBS607.94
 Colsi1	Colletotrichum_simmondsii_CBS122122
 Colny1	Colletotrichum_nymphaeae_SA-01
 Spola1	Sporopachydermia_lactativora_Phaff_68-199_v1.0
-Suipic1	Suillus_pictus_EM44_v1.0
-Leucr1	Leucosporidiella_creatinivora_62-1032_v1.0
-Spopa1	Sporidiobolus_pararoseus_Phaff_68-350_v1.0
-Crywi1	Cryptococcus_wieringae_v1.0
-Treen1	Naematella_encephela_UCDFST_68-887.2_v1.0
+Suipic1	Suillus_spraguei_EM44_v1.0
+Leucr1	Leucosporidiella_creatinivora_UCDFST_62-1032_v1.0
+Spopa1	Sporidiobolus_pararoseus_UCDFST_68-350_v1.0
+Crywi1	Filobasidium_wieringae_UCDFST_05-544_v1.0
+Treen1	Naematelia_encephela_UCDFST_68-887.2_v1.0
 Prola1	Protomyces_lactucaedebilis_12-1054_v1.0
 Ampqui1	Ampelomyces_quisqualis_HMLAC05119_v1.0
 Rhoto_IFO0880_2	Rhodosporidium_toruloides_IFO0880_v2.0
@@ -905,8 +1263,8 @@ Lizem1	Lizonia_empirigonia_CBS_542.76_v1.0
 Fusox2	Fusarium_oxysporum_f._sp._lycopersici_4287_v2
 Fusve2	Fusarium_verticillioides_7600_v2
 Magpo1	Magnaporthiopsis_poae_ATCC_64411
-Suigr1	Suillus_granulatus_EM37_v1.0
-CerAGI	Ceratobasidium_sp._(anastomosis_group_I,_AG-I)_v1.0
+Suigr1	Suillus_weaverae_EM37_v1.0
+CerAGI	Ceratobasidium_sp._anastomosis_group_I_DN8442_v1.0
 Rhimi_ATCC11559_1	Rhizopus_microsporus_ATCC11559_v1.0
 Rutfi1	Rutstroemia_firma_CBS_115.86_v1.0
 Trace1	Trametopsis_cervina_CIRM-BRFM_1824_v1.0
@@ -921,7 +1279,7 @@ Rhili1	Rhizodiscina_lignyota_CBS_133067_v1.0
 Decga1	Decorospora_gaudefroyi_v1.0
 Polbr1	Polyporus_brumalis_BRFM_1820_v1.0
 Lopni1	Peniophora_sp._CONTA_v1.0
-Lolmi1	Lollipopaia_minuta_P26;_CBS_116597_v1.0
+Lolmi1	Lollipopaia_minuta_P26_CBS_116597_v1.0
 Onnsc1	Onnia_scaura_P-53A_v1.0
 Paxam1	Paxillus_ammoniavirescens_Pou09.2_v1.0
 Suihi1	Suillus_hirtellus_EM16_v1.0
@@ -983,10 +1341,10 @@ Perma1	Periconia_macrospinosa_DSE2036_v1.0
 Rhyru1_1	Rhytidhysteron_rufulum
 Hyspu1_1	Hysterium_pulicare
 Botdo1_1	Botryosphaeria_dothidea
-Stagr1	Stanjemonium_grisellum_CBS_655.79_v1.0
 Leugo1_1	Leucoagaricus_gongylophorus_Ac12
 Orpsp1_1	Orpinomyces_sp.
 Linin1	Lindgomyces_ingoldianus_ATCC_200398_v1.0
+Stagr1	Stanjemonium_grisellum_CBS_655.79_v1.0
 Venin1	Venturia_inaequalis
 Valla1	Valetoniellopsis_laxa_CBS_191.97_v1.0
 Leisp1	Leiotrametes_sp_BRFM_1775_v1.0
@@ -998,417 +1356,468 @@ Armga1	Armillaria_gallica_21-2_v1.0
 Acrst1	Acremonium_strictum_DS1bioAY4a_v1.0
 Stasp1	Stagonospora_sp._SRC1lsM3a_v1.0
 Eryha1	Erythrobasidium_hasegawianum_ATCC_9536_v1.0
-Alternaria alternata SRC1lrK2f v1.0	000
-Massarina eburnea CBS 473.64 v1.0	001
-Aspergillus ochraceoroseus IBT 24754 v1.0	002
-Aspergillus niger van Tieghem ATCC 13496 v1.0	003
-Aspergillus campestris IBT 28561 v1.0	004
-Aspergillus novofumigatus IBT 16806 v1.0	005
-Aspergillus steynii IBT 23096 v1.0	006
-Aspergillus niger (phoenicis Corda) Thom ATCC 13157 v1.0	007
-Ramicandelaber brevisporus CBS 109374 v1.0	008
-Rhizopogon salebrosus TDB-379 v1.0	009
-Conidiobolus thromboides FSU 785 v1.0	010
-Martensiomyces pterosporus CBS 209.56 v1.0	011
-Rhizoscyphus ericae UAMH 7357 v1.0	012
-Marssonina brunnea f. sp. multigermtubi MB_m1	013
-Teratosphaeria nubilosa CBS 116005 v1.0	014
-Zymoseptoria pseudotritici STIR04_2.2.1	015
-Zymoseptoria ardabiliae STIR04_1.1.1	016
-Phyllosticta citriasiana CBS 120486 v1.0	017
-Pseudovirgaria hyperparasitica CBS 121739 v1.0	018
-Clathrospora elynae CBS 161.51 v1.0	019
-Tothia fuscella CBS 130266 v1.0	020
-Auriscalpium vulgare FP105234-Sp v1.0	021
-Polyplosphaeria fusca CBS 125425 v1.0	022
-Verruculina enalia CBS 304.66 v1.0	023
-Aporpium caryae L-13461	024
-Armillaria mellea DSM 3731	025
-Neurospora crassa FGSC 73 trp-3 v1.0	026
-Gymnopus androsaceus JB14 v1.0	027
-Panellus stipticus KUC8834 v1.1	028
-Clavulina sp. PMI_390 v1.0	029
-Thozetella sp. PMI_491 v2.0	030
-Coniochaeta sp. PMI_546 v1.0	031
-Artolenzites elegans CIRM-BRFM 1663 v1.0	032
-Trametes ljubarskyi CIRM1659 v1.0	033
-Cladonia grayi Cgr/DA2myc/ss v2.0	034
-Coniochaeta ligniaria NRRL 30616 v1.0	035
-Guyanagaster necrorhiza MCA 3950 v1.0	036
-Rhodotorula sp. JG-1b	037
-Westerdykella ornata CBS 379.55 v1.0	038
-Byssothecium circinans CBS 675.92 v1.0	039
-Sporobolomyces roseus v1.0	040
-Batrachochytrium dendrobatidis JAM81 v1.0	041
-Scheffersomyces stipitis NRRL Y-11545 v2.0	042
-Mycosphaerella graminicola v2.0	043
-Rhizopogon vinicolor AM-OR11-026 v1.0	044
-Clavicorona pyxidata HHB10654 v1.0	045
-Obba rivulosa 3A-2 v1.0	046
-Delitschia confertaspora ATCC 74209 v1.0	047
-Pycnoporus coccineus CIRM1662	048
-Gymnopilus chrysopellus PR-1187 v1.0	049
-Ophiobolus disseminans CBS 113818 v1.0	050
-Corynespora cassiicola CCP v1.0	051
-Lophium mytilinum CBS 269.34 v1.0	052
-Coniochaeta ligniaria CBS 111746	053
-Macroventuria anomochaeta CBS 525.71 v1.0	054
-Aaosphaeria arxii CBS 175.79 v1.0	055
-Phoma tracheiphila IPT5 v1.0	056
-Trichosporon oleaginosus IBC0246 v1.0	057
-Phanerochaete chrysosporium RP-78 v2.2	058
-Karstenula rhodostoma CBS 690.94 v1.0	059
-Amniculicola lignicola CBS 123094 v1.0	060
-Heterogastridium pycnidioideum ATCC MYA-4631 v1.0	061
-Naiadella fluitans ATCC 64713 v1.0	062
-Sporobolomyces linderae CBS 7893 v1.0	063
-Tritirachium sp. CBS 265.96 v1.0	064
-Agaricostilbum hyphaenes  ATCC MYA-4628 v1.0	065
-Cystobasidium minutum MCA 4210 v1.0	066
-Gyrodon lividus BX v1.0	067
-Tilletiaria anomala UBC 951 v1.0	068
-Thielavia antarctica CBS 123565 v1.0	069
-Cadophora sp. DSE1049 v1.0	070
-Ramaria rubella (R. acris) UT-36052-T v1.0	071
-Saccharata proteae CBS 121410 v1.0	072
-Aspergillus niger NRRL3	073
-Pycnoporus sanguineus BRFM 1264 v1.0	074
-Morchella importuna CCBAS932 v1.0	075
-Penicillium brevicompactum AgRF18 v1.0	076
-Talaromyces marneffei ATCC 18224	077
-Penicillium janthinellum ATCC 10455 v1.0	078
-Penicillium raistrickii ATCC 10490 v1.0	079
-Talaromyces aculeatus ATCC 10409 v1.0	080
-Thielavia appendiculata CBS 731.68 v1.0	081
-Thielavia hyrcaniae CBS 757.83 v1.0	082
-Trematosphaeria pertusa CBS 122368 v1.0	083
-Leucogyrophana mollusca KUC20120723A-06 v1.0	084
-Schizopora paradoxa KUC8140 v1.0	085
-Thielavia arenaria CBS 508.74 v1.0	086
-Auricularia subglabra v2.0	087
-Aspergillus niger ATCC 1015 v4.0	088
-Rozella allomycis CSF55	089
-Talaromyces stipitatus ATCC 10500	090
-Malassezia sympodialis ATCC 42132	091
-Enterocytozoon bieneusi H348	092
-Pseudozyma antarctica T-34	093
-Nosema ceranae BRL01	094
-Penicillium oxalicum 114-2	095
-Penicillium chrysogenum Wisconsin 54-1255	096
-Aspergillus kawachii IFO 4308	097
-Ascocoryne sarcoides NRRL50072	098
-Choiromyces venosus 120613-1 v1.0	099
-Dendrothele bispora CBS 962.96 v1.0	100
-Dothidotthia symphoricarpi v1.0	101
-Exobasidium vaccinii MPITM v1.0	102
-Fibulorhizoctonia sp. CBS 109695 v1.0	103
-Moniliophthora perniciosa FA553	104
-Aspergillus fumigatus A1163	105
-Arthroderma benhamiae CBS 112371	106
-Trichophyton verrucosum HKI 0517	107
-Encephalitozoon hellem ATCC 50504	108
-Macrophomina phaseolina MS6	109
-Monacrosporium haptotylum CBS 200.50	110
-Schizosaccharomyces cryophilus OY26	111
-Schizosaccharomyces octosporus yFS286	112
-Cordyceps militaris CM01	113
-Encephalitozoon romaleae SJ-2008	114
-Rhizopus microsporus var. chinensis CCTCC M201021	115
-Arthrobotrys oligospora ATCC 24927	116
-Verticillium alfalfae VaMs.102	117
-Schizosaccharomyces japonicus yFS275	118
-Sporisorium reilianum SRZ2	119
-Encephalitozoon intestinalis ATCC 50506	120
-Fibroporia radiculosa TFFH 294	121
-Trichoderma citrinoviride TUCIM 6016 v4.0	122
-Trichoderma longibrachiatum ATCC 18648 v3.0	123
-Sporormia fimetaria v1.0	124
-Pseudozyma hubeiensis SY62	125
-Rhizoctonia solani AG-1 IB	126
-Lentinus tigrinus ALCF2SS1-6 v1.0	127
-Calocera viscosa v1.0	128
-Lentinus tigrinus ALCF2SS1-7 v1.0	129
-Lentinus tigrinus v1.0	130
-Sistotremastrum niveocremeum HHB9708 ss-1 1.0	131
-Beauveria bassiana ARSEF 2860	132
-Glarea lozoyensis ATCC 20868	133
-Uncinocarpus reesii UAMH 1704	134
-Schizophyllum commune H4-8 v3.0	135
-Pyronema confluens CBS100304	136
-Paracoccidioides brasiliensis Pb03	137
-Puccinia striiformis f. sp. tritici PST-130 	138
-Encephalitozoon cuniculi GB-M1	139
-Wallemia ichthyophaga EXF-994	140
-Phaeoacremonium aleophilum UCRPA7	141
-Eutypa lata UCREL1	142
-Metarhizium acridum CQMa 102	143
-Penicillium digitatum PHI26	144
-Fusarium fujikuroi IMI 58289	145
-Grosmannia clavigera kw1407	146
-Coccidioides immitis RS 	147
-Xylona heveae TC161 v1.0	148
-Gymnascella citrina v1.1	149
-Monascus purpureus v1.0	150
-Sodiomyces alkalinus v1.0	151
-Anthostoma avocetta NRRL 3190 v1.0	152
-Saccharomyces cerevisiae YB210 v1.0	153
-Lophiostoma macrostomum v1.0	154
-Gymnascella aurantiaca v1.0	155
-Atractiellales rhizophila v2.0	156
-Dissoconium aciculare v1.0	157
-Neofusicoccum parvum UCRNP2	158
-Piedraia hortae v1.1	159
-Antonospora locustae HM-2013	160
-Nematocida parisii ERTm1	161
-Backusella circina FSU 941 v1.0	162
-Wilcoxina mikolae CBS 423.85 v1.0	163
-Colletotrichum graminicola M1.001	164
-Schizophyllum commune Tattone D v1.0	165
-Schizophyllum commune Loenen D v1.0	166
-Penicillium brevicompactum 1011305 v2.0	167
-Microsporum canis CBS 113480	168
-Histoplasma capsulatum NAm1	169
-Trichophyton rubrum CBS 118892	170
-Zopfia rhizophila v1.0	171
-Rhizopus microsporus var. microsporus ATCC52813 v1.0	172
-Exidia glandulosa v1.0	173
-Pleomassaria siparia v1.0	174
-Macrolepiota fuliginosa MF-IS2 v1.0	175
-Cortinarius glaucopus AT 2004 276 v2.0	176
-Chalara longipes BDJ v1.0	177
-Trypethelium eluteriae v1.0	178
-Calocera cornea v1.0	179
-Penicillium expansum ATCC 24692 v1.0	180
-Trichaptum abietinum v1.0	181
-Penicillium canescens ATCC 10419 v1.0	182
-Penicillium bilaiae ATCC 20851 v1.0	183
-Coprinopsis cinerea AmutBmut pab1-1 v1.0	184
-Penicillium glabrum DAOM 239074 v1.0	185
-Penicillium fellutanum ATCC 48694 v1.0	186
-Penicillium lanosocoeruleum ATCC 48919 v1.0	187
-Volvariella volvacea V23	188
-Rhizophagus irregularis DAOM 181602 v1.0	189
-Patellaria atrata v1.0	190
-Lichtheimia hyalospora v1.0	191
-Lindra thalassiae JK4322 v1.0	192
-Pneumocystis jirovecii	193
-Taphrina deformans	194
-Antrodia sinuosa LB1 v1.0	195
-Aureobasidium pullulans var. melanogenum CBS 110374	196
-Aureobasidium pullulans var. namibiae CBS 147.97	197
-Peniophora sp. v1.0	198
-Cylindrobasidium torrendii FP15055 v1.0	199
-Melanomma pulvis-pyrius v1.0	200
-Omphalotus olearius	201
-Aspergillus niger CBS 513.88	202
-Aulographum hederae v2.0	203
-Neurospora crassa OR74A v2.0	204
-Tricholoma matsutake 945 v3.0	205
-Lepidopterella palustris v1.0	206
-Meliniomyces bicolor E v2.0	207
-Polychaeton citri v1.0	208
-Cenococcum geophilum 1.58 v2.0	209
-Sistotremastrum suecicum v1.0	210
-Aureobasidium pullulans var. pullulans EXF-150	211
-Pichia pastoris	212
-Debaryomyces hansenii	213
-Kluyveromyces lactis	214
-Pycnoporus coccineus BRFM 310 v1.0	215
-Neolentinus lepideus v1.0	216
-Laetiporus sulphureus var. sulphureus v1.0	217
-Polyporus arcularius v1.0	218
-Thermoascus aurantiacus v1.0	219
-Cerrena unicolor v1.1	220
-Meliniomyces variabilis F v1.0	221
-Fistulina hepatica v1.0	222
-Cryptococcus vishniacii v1.0	223
-Daedalea quercina v1.0	224
-Lentithecium fluviatile v1.0	225
-Saccharomyces cerevisiae M3836 v1.0	226
-Saccharomyces cerevisiae M3838 v1.0	227
-Saccharomyces cerevisiae M3837 v1.0	228
-Saccharomyces cerevisiae M3707 Dikaryon	229
-Saccharomyces cerevisiae M3839 v1.0	230
-Dioszegia cryoxerica v1.0	231
-Sclerotinia sclerotiorum v1.0	232
-Cucurbitaria berberidis CBS 394.84 v1.0	233
-Yarrowia lipolytica (strain CLIB122)	234
-Schizosaccharomyces pombe	235
-Aspergillus clavatus NRRL 1 from AspGD	236
-Aspergillus flavus NRRL3357	237
-Umbelopsis ramanniana AG # v1.0	238
-Cyberlindnera jadinii NRRL Y-1542 v1.0	239
-Ascobolus immersus RN42 v1.0	240
-Symbiotaphrina kochii v1.0	241
-Aplosporella prunicola CBS 121.167 v1.0	242
-Ilyonectria sp. v1.0	243
-Myriangium duriaei CBS 260.36 v1.0	244
-Glomerella acutata (Colletotrichum fiorinae MH 18) v1.0	245
-Monascus ruber NRRL 1597 v1.0	246
-Neosartorya fischeri NRRL 181	247
-Aspergillus terreus NIH 2624	248
-Aspergillus oryzae RIB40	249
-Aspergillus fumigatus Af293 from AspGD	250
-Melanconium sp. NRRL 54901 v1.0	251
-Glomerella cingulata 23 (Colletotrichum gloeosporoides 23) v1.0	252
-Aspergillus zonatus v1.0	253
-Aspergillus glaucus v1.0	254
-Hebeloma cylindrosporum h7 v2.0	255
-Didymella exigua CBS 183.55 v1.0	256
-Aspergillus tubingensis v1.0	257
-Aspergillus wentii v1.0	258
-Amanita muscaria Koide v1.0	259
-Zasmidium cellare ATCC 36951 v1.0	260
-Cladosporium fulvum v1.0	261
-Apiospora montagnei NRRL 25634 v1.0	262
-Fomitopsis pinicola FP-58527 SS1 v3.0	263
-Hypoxylon sp. CI-4A v1.0	264
-Hypoxylon sp. CO27-5 v1.0	265
-Daldinia eschscholtzii EC12 v1.0	266
-Amanita thiersii Skay4041 v1.0	267
-Sebacina vermifera MAFF 305830 v1.0	268
-Piriformospora indica DSM 11827 from MPI	269
-Scleroderma citrinum Foug A v1.0	270
-Tulasnella calospora AL13/4D v1.0	271
-Cronartium quercuum f. sp. fusiforme G11 v1.0	272
-Aspergillus sydowii CBS 593.65 v1.0	273
-Aspergillus versicolor v1.0	274
-Cochliobolus lunatus m118 v2.0	275
-Aspergillus brasiliensis v1.0	276
-Aspergillus luchuensis CBS 106.47 v1.0	277
-Pisolithus microcarpus 441 v1.0	278
-Pisolithus tinctorius Marx 270 v1.0	279
-Aureobasidium pullulans var. subglaciale EXF-2481	280
-Cochliobolus miyabeanus ATCC 44560 v1.0	281
-Cochliobolus victoriae FI3 v1.0	282
-Cochliobolus carbonum 26-R-13 v1.0	283
-Dekkera bruxellensis CBS 2499 v2.0	284
-Hanseniaspora valbyensis NRRL Y-1626 v1.1	285
-Hydnomerulius pinastri v2.0	286
-Sphaerobolus stellatus v1.0	287
-Piloderma croceum F 1598 v1.0	288
-Metschnikowia bicuspidata NRRL YB-4993 v1.0	289
-Hyphopichia burtonii NRRL Y-1933 v1.0	290
-Candida tanzawaensis NRRL Y-17324  v1.0	291
-Mixia osmundae IAM 14324 v1.0	292
-Babjeviella inositovora NRRL Y-12698 v1.0	293
-Conidiobolus coronatus NRRL28638 v1.0	294
-Trichoderma harzianum CBS 226.95 v1.0	295
-Trichoderma asperellum CBS 433.97 v1.0	296
-Penicillium chrysogenum v1.0	297
-Cryptococcus neoformans var neoformans JEC21	298
-Amorphotheca resinae v1.0	299
-Galerina marginata v1.0	300
-Gonapodya prolifera v1.0	301
-Candida arabinofermentans NRRL YB-2248 v1.0	302
-Postia placenta MAD-698-R-SB12 v1.0	303
-Ascoidea rubescens NRRL Y17699 v1.0	304
-Piromyces sp. E2 v1.0	305
-Pichia membranifaciens v2.0	306
-Cercospora zeae-maydis v1.0	307
-Plicaturopsis crispa v1.0	308
-Serpula himantioides (S.lacrymans var shastensis) MUCL38935 v1.0	309
-Cochliobolus heterostrophus C5 v2.0	310
-Saitoella complicata NRRL Y-17804 v1.0	311
-Cochliobolus heterostrophus C4 v1.0	312
-Nadsonia fulvescens var. elongata DSM 6958 v1.0	313
-Coemansia reversa NRRL 1564 v1.0	314
-Serpula lacrymans S7.9 v2.0	315
-Hypholoma sublateritium v1.0	316
-Gymnopus luxurians v1.0	317
-Jaapia argillacea v1.0	318
-Botryobasidium botryosum v1.0	319
-Paxillus involutus ATCC 200175 v1.0	320
-Oidiodendron maius Zn v1.0	321
-Cochliobolus sativus ND90Pr v1.0	322
-Tortispora caseinolytica Y-17796 v1.0	323
-Lipomyces starkeyi NRRL Y-11557 v1.0	324
-Baudoinia compniacensis UAMH 10762 (4089826) v1.0	325
-Trichoderma reesei RUT C-30 v1.0	326
-Phlebiopsis gigantea v1.0	327
-Bjerkandera adusta v1.0	328
-Acremonium alcalophilum v2.0	329
-Acidomyces richmondensis BFW	330
-Acidomyces richmondensis BFW	331
-Candida tenuis NRRL Y-1498 v1.0	332
-Spathaspora passalidarum NRRL Y-27907 v2.0	333
-Fusarium graminearum v1.0	334
-Stagonospora nodorum SN15 v2.0	335
-Verticillium dahliae VdLs.17	336
-Phanerochaete carnosa HHB-10118-Sp v1.0	337
-Pachysolen tannophilus NRRL Y-2460 v1.2	338
-Eurotium rubrum v1.0	339
-Wickerhamomyces anomalus NRRL Y-366-8 v1.0	340
-Ganoderma sp. 10597 SS1 v1.0	341
-Phlebia brevispora HHB-7030 SS6 v1.0	342
-Pyrenophora teres f. teres	343
-Dacryopinax primogenitus DJM 731 SSP1 v1.0	344
-Laccaria bicolor v2.0	345
-Leptosphaeria maculans	346
-Myceliophthora thermophila (Sporotrichum thermophile) v2.0	347
-Thielavia terrestris v2.0	348
-Aspergillus nidulans	349
-Aspergillus aculeatus ATCC16872 v1.1	350
-Fomitiporia mediterranea v1.0	351
-Dichomitus squalens LYAD-421 SS1 v1.0	352
-Trametes versicolor v1.0	353
-Stereum hirsutum FP-91666 SS1 v1.0	354
-Coniophora puteana v1.0	355
-Punctularia strigosozonata v1.0	356
-Saccharomyces cerevisiae S288C	357
-Wolfiporia cocos MD-104 SS10 v1.0	358
-Ogataea polymorpha NCYC 495 leu1.1 v2.0	359
-Rhodotorula graminis strain WP1 v1.1	360
-Septoria musiva SO2202 v1.0	361
-Gloeophyllum trabeum v1.0	362
-Wallemia mellicola v1.0	363
-Dothistroma septosporum NZE10 v1.0	364
-Heterobasidion annosum v2.0	365
-Pleurotus ostreatus PC15 v2.0	366
-Ceriporiopsis (Gelatoporia) subvermispora B	367
-Neurospora tetrasperma FGSC 2508 mat A v2.0	368
-Trichoderma virens Gv29-8 v2.0	369
-Trichoderma atroviride v2.0	370
-Pseudocercospora (Mycosphaerella) fijiensis v2.0	371
-Agaricus bisporus var. burnettii JB137-S8	372
-Pleurotus ostreatus PC9 v1.0	373
-Agaricus bisporus var bisporus (H97) v2.0	374
-Aspergillus carbonarius ITEM 5010 v3	375
-Serpula lacrymans S7.3 v2.0	376
-Neurospora tetrasperma FGSC 2509 mat a v1.0	377
-Cryptococcus neoformans var. grubii H99	378
-Malassezia globosa	379
-Coprinopsis cinerea	380
-Mucor circinelloides CBS277.49 v2.0	381
-Phycomyces blakesleeanus NRRL1555 v2.0	382
-Cryphonectria parasitica EP155 v2.0	383
-Tremella mesenterica Fries v1.0	384
-Neurospora discreta FGSC 8579 mat A	385
-Nectria haematococca v2.0	386
-Trichoderma reesei v2.0	387
-Postia placenta MAD 698-R v1.0	388
-Pycnoporus cinnabarinus BRFM 137	389
-Puccinia striiformis f. sp. tritici PST-78 v1.0	390
-Tuber aestivum var. urcinatum v1.0	391
-Phlebia centrifuga FBCC195 	392
-Aspergillus ochraceoroseus SRRC1432	393
-Rhizopus delemar 99-880 from Broad	394
-Botrytis cinerea v1.0	395
-Penicillium expansum d1	396
-Aspergillus rambellii SRRC1468	397
-Tuber magnatum v1.0	398
-Rhodosporidium toruloides IFO1236_1	399
-Hesseltinella vesiculosa NRRL3301 v2.0	400
-Metschnikowia fructicola 277	401
-Trametes pubescens FBCC735	402
-Acremonium chrysogenum ATCC 11550	403
-Ophiostoma piceae UAMH 11346	404
-Trichoderma hamatum GD12	405
-Gaeumannomyces graminis var. tritici R3-111a-1	406
-Fusarium pseudograminearum CS3096	407
-Pyrenophora tritici-repentis	408
-Septoria populicola v1.0	409
-Chaetomium globosum v1.0	410
-Ascochyta rabiei ArDII	411
-Chaetosphaeria innumera	412
-Alternaria brassicicola	413
+Altal1	Alternaria_alternata_SRC1lrK2f_v1.0
+Maseb1	Massarina_eburnea_CBS_473.64_v1.0
+Aspoch1	Aspergillus_ochraceoroseus_IBT_24754_v1.0
+Aspni_bvT_1	Aspergillus_niger_van_Tieghem_ATCC_13496_v1.0
+Aspcam1	Aspergillus_campestris_IBT_28561_v1.0
+Aspnov1	Aspergillus_novofumigatus_IBT_16806_v1.0
+Aspste1	Aspergillus_steynii_IBT_23096_v1.0
+Aspph1	Aspergillus_niger_(phoenicis_Corda)_Thom_ATCC_13157_v1.0
+Rambr1	Ramicandelaber_brevisporus_CBS_109374_v1.0
+Rhisa1	Rhizopogon_salebrosus_TDB-379_v1.0
+Conth1	Conidiobolus_thromboides_FSU_785_v1.0
+Marpt1	Martensiomyces_pterosporus_CBS_209.56_v1.0
+Rhier1	Rhizoscyphus_ericae_UAMH_7357_v1.0
+Marbr1	Marssonina_brunnea_f._sp._multigermtubi_MB_m1
+Ternu1	Teratosphaeria_nubilosa_CBS_116005_v1.0
+Zymps1	Zymoseptoria_pseudotritici_STIR04_2.2.1
+Zymar1	Zymoseptoria_ardabiliae_STIR04_1.1.1
+Phycit1	Phyllosticta_citriasiana_CBS_120486_v1.0
+Psehy1	Pseudovirgaria_hyperparasitica_CBS_121739_v1.0
+Clael1	Clathrospora_elynae_CBS_161.51_v1.0
+Totfu1	Tothia_fuscella_CBS_130266_v1.0
+Aurvu1	Auriscalpium_vulgare_FP105234-Sp_v1.0
+Polfu1	Polyplosphaeria_fusca_CBS_125425_v1.0
+Veren1	Verruculina_enalia_CBS_304.66_v1.0
+Elmca1	Aporpium_caryae_L-13461
+Armme1_1	Armillaria_mellea_DSM_3731
+Neucr_trp3_1	Neurospora_crassa_FGSC_73_trp-3_v1.0
+Gyman1	Gymnopus_androsaceus_JB14_v1.0
+Panst_KUC8834_1_1	Panellus_stipticus_KUC8834_v1.1
+ClaPMI390	Sistotrema_sp._PMI_390_v1.0
+ThoPMI491_1	Thozetella_sp._PMI_491_v2.0
+ConPMI546	Coniochaeta_sp._PMI_546_v1.0
+Artel1	Artolenzites_elegans_CIRM-BRFM_1663_v1.0
+Tralj1	Trametes_ljubarskyi_CIRM1659_v1.0
+Clagr3	Cladonia_grayi_Cgr/DA2myc/ss_v2.0
+Conlig1	Coniochaeta_ligniaria_NRRL_30616_v1.0
+Guyne1	Guyanagaster_necrorhizus_MCA_3950_v1.0
+Rhosp1	Rhodotorula_sp._JG-1b
+Wesor1	Westerdykella_ornata_CBS_379.55_v1.0
+Bysci1	Byssothecium_circinans_CBS_675.92_v1.0
+Sporo1	Sporobolomyces_roseus_v1.0
+Batde5	Batrachochytrium_dendrobatidis_JAM81_v1.0
+Picst3	Scheffersomyces_stipitis_NRRL_Y-11545_v2.0
+Mycgr3	Mycosphaerella_graminicola_v2.0
+Rhivi1	Rhizopogon_vinicolor_AM-OR11-026_v1.0
+Clapy1	Clavicorona_pyxidata_HHB10654_v1.0
+Obbri1	Obba_rivulosa_3A-2_v1.0
+Delco1	Delitschia_confertaspora_ATCC_74209_v1.0
+Pycco1662_1	Pycnoporus_coccineus_CIRM1662
+Gymch1	Gymnopilus_chrysopellus_PR-1187_v1.0
+Ophdi1	Ophiobolus_disseminans_CBS_113818_v1.0
+Corca1	Corynespora_cassiicola_CCP_v1.0
+Lopmy1	Lophium_mytilinum_CBS_269.34_v1.0
+Conli1	Coniochaeta_ligniaria_CBS_111746
+Macan1	Macroventuria_anomochaeta_CBS_525.71_v1.0
+Aaoar1	Aaosphaeria_arxii_CBS_175.79_v1.0
+Photr1	Phoma_tracheiphila_IPT5_v1.0
+Triol1	Trichosporon_oleaginosus_IBC0246_v1.0
+Phchr2	Phanerochaete_chrysosporium_RP-78_v2.2
+Karrh1	Karstenula_rhodostoma_CBS_690.94_v1.0
+Amnli1	Amniculicola_lignicola_CBS_123094_v1.0
+Hetpy1	Heterogastridium_pycnidioideum_ATCC_MYA-4631_v1.0
+Naifl1	Naiadella_fluitans_ATCC_64713_v1.0
+Spoli1	Sporobolomyces_linderae_CBS_7893_v1.0
+Trisp1	Tritirachium_sp._CBS_265.96_v1.0
+Agahy1	Agaricostilbum_hyphaenes__ATCC_MYA-4628_v1.0
+Rhomi1	Cystobasidium_minutum_MCA_4210_v1.0
+Gyrli1	Gyrodon_lividus_BX_v1.0
+Tilan2	Tilletiaria_anomala_UBC_951_v1.0
+Thian1	Thielavia_antarctica_CBS_123565_v1.0
+Ramac1	Ramaria_rubella_(R._acris)_UT-36052-T_v1.0
+Cadsp1	Cadophora_sp._DSE1049_v1.0
+Sacpr1	Saccharata_proteae_CBS_121410_v1.0
+Aspni_NRRL3_1	Aspergillus_niger_NRRL3
+Pycsa1	Pycnoporus_sanguineus_BRFM_1264_v1.0
+Morco1	Morchella_importuna_CCBAS932_v1.0
+PenbrAgRF18_1	Penicillium_brevicompactum_AgRF18_v1.0
+Penja1	Penicillium_janthinellum_ATCC_10455_v1.0
+Penra1	Penicillium_raistrickii_ATCC_10490_v1.0
+Talma1_2	Talaromyces_marneffei_ATCC_18224
+Penac1	Talaromyces_aculeatus_ATCC_10409_v1.0
+Thiap1	Thielavia_appendiculata_CBS_731.68_v1.0
+Thihy1	Thielavia_hyrcaniae_CBS_757.83_v1.0
+Trepe1	Trematosphaeria_pertusa_CBS_122368_v1.0
+Leumo1	Leucogyrophana_mollusca_KUC20120723A-06_v1.0
+Schpa1	Schizopora_paradoxa_KUC8140_v1.0
+Thiar1	Thielavia_arenaria_CBS_508.74_v1.0
+Aurde3_1	Auricularia_subglabra_v2.0
+Aspni7	Aspergillus_niger_ATCC_1015_v4.0
+Rozal1_1	Rozella_allomycis_CSF55
+Talst1_2	Talaromyces_stipitatus_ATCC_10500
+Malsy1_1	Malassezia_sympodialis_ATCC_42132
+Entbi1	Enterocytozoon_bieneusi_H348
+Psean1_1	Pseudozyma_antarctica_T-34
+Nosce1	Nosema_ceranae_BRL01
+Penox1	Penicillium_oxalicum_114-2
+PenchWisc1_1	Penicillium_chrysogenum_Wisconsin_54-1255
+Aspka1_1	Aspergillus_kawachii_IFO_4308
+Ascsa1	Ascocoryne_sarcoides_NRRL50072
+Chove1	Choiromyces_venosus_120613-1_v1.0
+Denbi1	Dendrothele_bispora_CBS_962.96_v1.0
+Dotsy1	Dothidotthia_symphoricarpi_v1.0
+Exova1	Exobasidium_vaccinii_MPITM_v1.0
+Fibsp1	Fibulorhizoctonia_sp._CBS_109695_v1.0
+Monpe1_1	Moniliophthora_perniciosa_FA553
+Aspfu_A1163_1	Aspergillus_fumigatus_A1163
+Artbe1	Arthroderma_benhamiae_CBS_112371
+Triver1	Trichophyton_verrucosum_HKI_0517
+Enche1	Encephalitozoon_hellem_ATCC_50504
+Macph1	Macrophomina_phaseolina_MS6
+Monha1	Monacrosporium_haptotylum_CBS_200.50
+Schcy1	Schizosaccharomyces_cryophilus_OY26
+Schoc1	Schizosaccharomyces_octosporus_yFS286
+Cormi1	Cordyceps_militaris_CM01
+Encro1	Encephalitozoon_romaleae_SJ-2008
+Rhich1	Rhizopus_microsporus_var._chinensis_CCTCC_M201021
+Artol1	Arthrobotrys_oligospora_ATCC_24927
+Veral1	Verticillium_alfalfae_VaMs.102
+Schja1	Schizosaccharomyces_japonicus_yFS275
+Spore1	Sporisorium_reilianum_SRZ2
+Encin1	Encephalitozoon_intestinalis_ATCC_50506
+Fibra1	Fibroporia_radiculosa_TFFH_294
+Trici4	Trichoderma_citrinoviride_TUCIM_6016_v4.0
+Trilo3	Trichoderma_longibrachiatum_ATCC_18648_v3.0
+Spofi1	Sporormia_fimetaria_v1.0
+Psehu1	Pseudozyma_hubeiensis_SY62
+Rhiso1	Rhizoctonia_solani_AG-1_IB
+Lenti6_1	Lentinus_tigrinus_ALCF2SS1-6_v1.0
+Calvi1	Calocera_viscosa_v1.0
+Lenti7_1	Lentinus_tigrinus_ALCF2SS1-7_v1.0
+Sisbr1	Lentinus_tigrinus_v1.0
+Sisni1	Sistotremastrum_niveocremeum_HHB9708_ss-1_1.0
+Beaba1	Beauveria_bassiana_ARSEF_2860
+Glalo1	Glarea_lozoyensis_ATCC_20868
+Uncre1	Uncinocarpus_reesii_UAMH_1704
+Schco3	Schizophyllum_commune_H4-8_v3.0
+Pyrco1	Pyronema_confluens_CBS100304
+Parbr1	Paracoccidioides_brasiliensis_Pb03
+Pucst1	Puccinia_striiformis_f._sp._tritici_PST-130_
+Enccu1	Encephalitozoon_cuniculi_GB-M1
+Walic1	Wallemia_ichthyophaga_EXF-994
+Phaal1	Phaeoacremonium_aleophilum_UCRPA7
+Eutla1	Eutypa_lata_UCREL1
+Metac1	Metarhizium_acridum_CQMa_102
+Pendi1	Penicillium_digitatum_PHI26
+Fusfu1	Fusarium_fujikuroi_IMI_58289
+Grocl1	Grosmannia_clavigera_kw1407
+Cocim1	Coccidioides_immitis_RS_
+Xylhe1	Xylona_heveae_TC161_v1.0
+Gymci1_1	Gymnascella_citrina_v1.1
+Monpu1	Monascus_purpureus_v1.0
+Sodal1	Sodiomyces_alkalinus_v1.0
+Antav1	Anthostoma_avocetta_NRRL_3190_v1.0
+SacceYB210_1	Saccharomyces_cerevisiae_YB210_v1.0
+Lopma1	Lophiostoma_macrostomum_v1.0
+Gymau1	Gymnascella_aurantiaca_v1.0
+Atrsp2	Atractiellales_rhizophila_v2.0
+Disac1	Dissoconium_aciculare_v1.0
+Neopa1	Neofusicoccum_parvum_UCRNP2
+Pieho1_1	Piedraia_hortae_CBS_480.64_v1.1
+Antlo1	Antonospora_locustae_HM-2013
+Nempa1	Nematocida_parisii_ERTm1
+Bacci1	Backusella_circina_FSU_941_v1.0
+Wilmi1	Wilcoxina_mikolae_CBS_423.85_v1.0
+Colgr1	Colletotrichum_graminicola_M1.001
+Schco_TatD_1	Schizophyllum_commune_Tattone_D_v1.0
+Schco_LoeD_1	Schizophyllum_commune_Loenen_D_v1.0
+Penbr2	Penicillium_brevicompactum_1011305_v2.0
+Micca1	Microsporum_canis_CBS_113480
+Hisca1	Histoplasma_capsulatum_NAm1
+Triru1	Trichophyton_rubrum_CBS_118892
+Zoprh1	Zopfia_rhizophila_v1.0
+Rhimi1_1	Rhizopus_microsporus_var._microsporus_ATCC52813_v1.0
+Exigl1	Exidia_glandulosa_v1.0
+Plesi1	Pleomassaria_siparia_v1.0
+Macfu1	Macrolepiota_fuliginosa_MF-IS2_v1.0
+Corgl3	Cortinarius_glaucopus_AT_2004_276_v2.0
+Chalo1	Chalara_longipes_BDJ_v1.0
+Tryvi1	Viridothelium_virens_v1.0
+Calco1	Calocera_cornea_v1.0
+Penex1	Penicillium_expansum_ATCC_24692_v1.0
+Triab1_1	Trichaptum_abietinum_v1.0
+Penca1	Penicillium_canescens_ATCC_10419_v1.0
+Penbi1	Penicillium_bilaiae_ATCC_20851_v1.0
+Copci_AmutBmut1	Coprinopsis_cinerea_AmutBmut_pab1-1_v1.0
+Pengl1	Penicillium_glabrum_DAOM_239074_v1.0
+Penfe1	Penicillium_fellutanum_ATCC_48694_v1.0
+Penla1	Penicillium_lanosocoeruleum_ATCC_48919_v1.0
+Volvo1	Volvariella_volvacea_V23
+Gloin1	Rhizophagus_irregularis_DAOM_181602_v1.0
+Patat1	Patellaria_atrata_v1.0
+Lichy1	Lichtheimia_hyalospora_v1.0
+Linth1	Lindra_thalassiae_JK4322_v1.0
+Pneji1	Pneumocystis_jirovecii
+Tapde1_1	Taphrina_deformans
+Antsi1	Antrodia_sinuosa_LB1_v1.0
+Aurpu_var_mel1	Aureobasidium_pullulans_var._melanogenum_CBS_110374
+Aurpu_var_nam1	Aureobasidium_pullulans_var._namibiae_CBS_147.97
+Ricme1	Peniophora_sp._v1.0
+Cylto1	Cylindrobasidium_torrendii_FP15055_v1.0
+Melpu1	Melanomma_pulvis-pyrius_v1.0
+Ompol1	Omphalotus_olearius
+Aspni_DSM_1	Aspergillus_niger_CBS_513.88
+Aulhe2	Aulographum_hederae_v2.0
+Neucr2	Neurospora_crassa_OR74A_v2.0
+Melbi2	Meliniomyces_bicolor_E_v2.0
+Trima3	Tricholoma_matsutake_945_v3.0
+Leppa1	Lepidopterella_palustris_v1.0
+Polci1	Polychaeton_citri_v1.0
+Cenge3	Cenococcum_geophilum_1.58_v2.0
+Sissu1	Sistotremastrum_suecicum_v1.0
+Aurpu_var_pul1	Aureobasidium_pullulans_var._pullulans_EXF-150
+Picpa1	Pichia_pastoris
+Debha1	Debaryomyces_hansenii
+Klula1	Kluyveromyces_lactis
+Pycco1	Pycnoporus_coccineus_BRFM_310_v1.0
+Neole1	Neolentinus_lepideus_v1.0
+Laesu1	Laetiporus_sulphureus_var._sulphureus_v1.0
+Polar1	Polyporus_arcularius_v1.0
+Theau1	Thermoascus_aurantiacus_v1.0
+Cerun2	Cerrena_unicolor_v1.1
+Melva1	Meliniomyces_variabilis_F_v1.0
+Fishe1	Fistulina_hepatica_v1.0
+Cryvi1	Naganishia_vishniacii_ANT03-052_v1.0
+Daequ1	Daedalea_quercina_v1.0
+Lenfl1	Lentithecium_fluviatile_v1.0
+SacceM3836_1	Saccharomyces_cerevisiae_M3836_v1.0
+SacceM3838_1	Saccharomyces_cerevisiae_M3838_v1.0
+SacceM3837_1	Saccharomyces_cerevisiae_M3837_v1.0
+SacceM3707_1	Saccharomyces_cerevisiae_M3707_Dikaryon
+SacceM3839_1	Saccharomyces_cerevisiae_M3839_v1.0
+Diocr1	Dioszegia_cryoxerica_v1.0
+Sclsc1	Sclerotinia_sclerotiorum_v1.0
+Cucbe1	Cucurbitaria_berberidis_CBS_394.84_v1.0
+Yarli1	Yarrowia_lipolytica_(strain_CLIB122)
+Schpo1	Schizosaccharomyces_pombe
+Aspcl1	Aspergillus_clavatus_NRRL_1_from_AspGD
+Aspfl1	Aspergillus_flavus_NRRL3357
+Umbra1	Umbelopsis_ramanniana_AG_#_v1.0
+Cybja1	Cyberlindnera_jadinii_NRRL_Y-1542_v1.0
+Ascim1	Ascobolus_immersus_RN42_v1.0
+Symko1	Symbiotaphrina_kochii_v1.0
+Aplpr1	Aplosporella_prunicola_CBS_121.167_v1.0
+Ilysp1	Ilyonectria_sp._v1.0
+Myrdu1	Myriangium_duriaei_CBS_260.36_v1.0
+Gloac1	Glomerella_acutata_(Colletotrichum_fiorinae_MH_18)_v1.0
+Monru1	Monascus_ruber_NRRL_1597_v1.0
+Neofi1	Neosartorya_fischeri_NRRL_181
+Aspte1	Aspergillus_terreus_NIH_2624
+Aspor1	Aspergillus_oryzae_RIB40
+Aspfu1	Aspergillus_fumigatus_Af293_from_AspGD
+Melsp1	Melanconium_sp._NRRL_54901_v1.0
+Gloci1	Glomerella_cingulata_23_(Colletotrichum_gloeosporoides_23)_v1.0
+Aspzo1	Aspergillus_zonatus_v1.0
+Aspgl1	Aspergillus_glaucus_v1.0
+Hebcy2	Hebeloma_cylindrosporum_h7_v2.0
+Didex1	Didymella_exigua_CBS_183.55_v1.0
+Asptu1	Aspergillus_tubingensis_v1.0
+Aspwe1	Aspergillus_wentii_v1.0
+Amamu1	Amanita_muscaria_Koide_v1.0
+Zasce1	Zasmidium_cellare_ATCC_36951_v1.0
+Clafu1	Cladosporium_fulvum_v1.0
+Apimo1	Apiospora_montagnei_NRRL_25634_v1.0
+Fompi3	Fomitopsis_pinicola_FP-58527_SS1_v3.0
+HypCI4A_1	Hypoxylon_sp._CI-4A_v1.0
+HypCO275_1	Hypoxylon_sp._CO27-5_v1.0
+DalEC12_1	Daldinia_eschscholtzii_EC12_v1.0
+Amath1	Amanita_thiersii_Skay4041_v1.0
+Sebve1	Sebacina_vermifera_MAFF_305830_v1.0
+Pirin1	Piriformospora_indica_DSM_11827_from_MPI
+Sclci1	Scleroderma_citrinum_Foug_A_v1.0
+Tulca1	Tulasnella_calospora_AL13/4D_v1.0
+Croqu1	Cronartium_quercuum_f._sp._fusiforme_G11_v1.0
+Aspsy1	Aspergillus_sydowii_CBS_593.65_v1.0
+Aspve1	Aspergillus_versicolor_v1.0
+Coclu2	Cochliobolus_lunatus_m118_v2.0
+Aspbr1	Aspergillus_brasiliensis_v1.0
+Aspfo1	Aspergillus_luchuensis_CBS_106.47_v1.0
+Pismi1	Pisolithus_microcarpus_441_v1.0
+Pisti1	Pisolithus_tinctorius_Marx_270_v1.0
+Aurpu_var_sub1	Aureobasidium_pullulans_var._subglaciale_EXF-2481
+Cocmi1	Cochliobolus_miyabeanus_ATCC_44560_v1.0
+Cocvi1	Cochliobolus_victoriae_FI3_v1.0
+Cocca1	Cochliobolus_carbonum_26-R-13_v1.0
+Dekbr2	Dekkera_bruxellensis_CBS_2499_v2.0
+Hanva1_1	Hanseniaspora_valbyensis_NRRL_Y-1626_v1.1
+Hydpi2	Hydnomerulius_pinastri_v2.0
+Sphst1	Sphaerobolus_stellatus_v1.0
+Pilcr1	Piloderma_olivaceum_F_1598_v1.0
+Metbi1	Metschnikowia_bicuspidata_NRRL_YB-4993_v1.0
+Hypbu1	Hyphopichia_burtonii_NRRL_Y-1933_v1.0
+Canta1	Candida_tanzawaensis_NRRL_Y-17324__v1.0
+Mixos1	Mixia_osmundae_IAM_14324_v1.0
+Babin1	Babjeviella_inositovora_NRRL_Y-12698_v1.0
+Conco1	Conidiobolus_coronatus_NRRL28638_v1.0
+Triha1	Trichoderma_harzianum_CBS_226.95_v1.0
+Trias1	Trichoderma_asperellum_CBS_433.97_v1.0
+Pench1	Penicillium_chrysogenum_v1.0
+Cryne_JEC21_1	Cryptococcus_neoformans_var_neoformans_JEC21
+Amore1	Amorphotheca_resinae_v1.0
+Galma1	Galerina_marginata_v1.0
+Ganpr1	Gonapodya_prolifera_v1.0
+Canar1	Candida_arabinofermentans_NRRL_YB-2248_v1.0
+PosplRSB12_1	Postia_placenta_MAD-698-R-SB12_v1.0
+Ascru1	Ascoidea_rubescens_NRRL_Y17699_v1.0
+PirE2_1	Piromyces_sp._E2_v1.0
+Picme2	Pichia_membranifaciens_v2.0
+Cerzm1	Cercospora_zeae-maydis_v1.0
+Plicr1	Plicaturopsis_crispa_v1.0
+Serla_varsha1	Serpula_himantioides_(S.lacrymans_var_shastensis)_MUCL38935_v1.0
+CocheC5_3	Cochliobolus_heterostrophus_C5_v2.0
+Saico1	Saitoella_complicata_NRRL_Y-17804_v1.0
+CocheC4_1	Cochliobolus_heterostrophus_C4_v1.0
+Nadfu1	Nadsonia_fulvescens_var._elongata_DSM_6958_v1.0
+Coere1	Coemansia_reversa_NRRL_1564_v1.0
+SerlaS7_9_2	Serpula_lacrymans_S7.9_v2.0
+Hypsu1	Hypholoma_sublateritium_v1.0
+Gymlu1	Gymnopus_luxurians_v1.0
+Jaaar1	Jaapia_argillacea_v1.0
+Botbo1	Botryobasidium_botryosum_v1.0
+Paxin1	Paxillus_involutus_ATCC_200175_v1.0
+Oidma1	Oidiodendron_maius_Zn_v1.0
+Cocsa1	Cochliobolus_sativus_ND90Pr_v1.0
+Canca1	Tortispora_caseinolytica_Y-17796_v1.0
+Lipst1_1	Lipomyces_starkeyi_NRRL_Y-11557_v1.0
+Bauco1	Baudoinia_compniacensis_UAMH_10762_(4089826)_v1.0
+TrireRUTC30_1	Trichoderma_reesei_RUT_C-30_v1.0
+Phlgi1	Phlebiopsis_gigantea_v1.0
+Bjead1_1	Bjerkandera_adusta_v1.0
+Acral2	Acremonium_alcalophilum_v2.0
+Aciri1_iso	Acidomyces_richmondensis_BFW
+Aciri1_meta	Acidomyces_richmondensis_BFW
+Cante1	Candida_tenuis_NRRL_Y-1498_v1.0
+Spapa3	Spathaspora_passalidarum_NRRL_Y-27907_v2.0
+Fusgr1	Fusarium_graminearum_v1.0
+Stano2	Stagonospora_nodorum_SN15_v2.0
+Verda1	Verticillium_dahliae_VdLs.17
+Phaca1	Phanerochaete_carnosa_HHB-10118-Sp_v1.0
+Pacta1_2	Pachysolen_tannophilus_NRRL_Y-2460_v1.2
+Eurhe1	Eurotium_rubrum_v1.0
+Wican1	Wickerhamomyces_anomalus_NRRL_Y-366-8_v1.0
+Gansp1	Ganoderma_sp._10597_SS1_v1.0
+Phlbr1	Phlebia_brevispora_HHB-7030_SS6_v1.0
+Pyrtt1	Pyrenophora_teres_f._teres
+Dacsp1	Dacryopinax_primogenitus_DJM_731_SSP1_v1.0
+Lacbi2	Laccaria_bicolor_v2.0
+Lepmu1	Leptosphaeria_maculans
+Spoth2	Myceliophthora_thermophila_(Sporotrichum_thermophile)_v2.0
+Thite2	Thielavia_terrestris_v2.0
+Aspnid1	Aspergillus_nidulans
+Aspac1	Aspergillus_aculeatus_ATCC16872_v1.1
+Fomme1	Fomitiporia_mediterranea_v1.0
+Dicsq1	Dichomitus_squalens_LYAD-421_SS1_v1.0
+Trave1	Trametes_versicolor_v1.0
+Stehi1	Stereum_hirsutum_FP-91666_SS1_v1.0
+Conpu1	Coniophora_puteana_v1.0
+Punst1	Punctularia_strigosozonata_v1.0
+Sacce1	Saccharomyces_cerevisiae_S288C
+Wolco1	Wolfiporia_cocos_MD-104_SS10_v1.0
+Hanpo2	Ogataea_polymorpha_NCYC_495_leu1.1_v2.0
+Rhoba1_1	Rhodotorula_graminis_strain_WP1_v1.1
+Sepmu1	Septoria_musiva_SO2202_v1.0
+Glotr1_1	Gloeophyllum_trabeum_v1.0
+Walse1	Wallemia_mellicola_v1.0
+Dotse1	Dothistroma_septosporum_NZE10_v1.0
+Hetan2	Heterobasidion_annosum_v2.0
+PleosPC15_2	Pleurotus_ostreatus_PC15_v2.0
+Cersu1	Ceriporiopsis_(Gelatoporia)_subvermispora_B
+Neute_matA2	Neurospora_tetrasperma_FGSC_2508_mat_A_v2.0
+TriviGv29_8_2	Trichoderma_virens_Gv29-8_v2.0
+Triat2	Trichoderma_atroviride_v2.0
+Mycfi2	Pseudocercospora_(Mycosphaerella)_fijiensis_v2.0
+Agabi_varbur_1	Agaricus_bisporus_var._burnettii_JB137-S8
+PleosPC9_1	Pleurotus_ostreatus_PC9_v1.0
+Agabi_varbisH97_2	Agaricus_bisporus_var_bisporus_(H97)_v2.0
+Aspca3	Aspergillus_carbonarius_ITEM_5010_v3
+SerlaS7_3_2	Serpula_lacrymans_S7.3_v2.0
+Neute_mat_a1	Neurospora_tetrasperma_FGSC_2509_mat_a_v1.0
+Cryne_H99_1	Cryptococcus_neoformans_var._grubii_H99
+Malgl1	Malassezia_globosa
+Copci1	Coprinopsis_cinerea
+Mucci2	Mucor_lusitanicus_CBS277.49_v2.0
+Phybl2	Phycomyces_blakesleeanus_NRRL1555_v2.0
+Crypa2	Cryphonectria_parasitica_EP155_v2.0
+Treme1	Tremella_mesenterica_Fries_v1.0
+Neudi1	Neurospora_discreta_FGSC_8579_mat_A
+Necha2	Nectria_haematococca_v2.0
+Trire2	Trichoderma_reesei_v2.0
+Pospl1	Postia_placenta_MAD_698-R_v1.0
+SmithFen_BAUOC	Cryptomycota_sp._Smith's_Fen_BAUOC_(Environmental_single-cell)_v1.0
+SmithFen_BAUOG	Chytridiomycota_sp._Smith's_Fen_BAUOG_(Environmental_single-cell)_v1.0
+CoeRSA1935_1	Coemansia_sp._RSA_1935_v1.0
+Sacarb1	Saccharomyces_arboricola_H-6
+CoeRSA2052_1	Coemansia_sp._RSA_2052_v1.0
+Pycci1	Pycnoporus_cinnabarinus_BRFM_137
+Mucrac1	Mucor_racemosus
+Coebra1	Coemansia_brasiliensis_NRRL_1566_v1.0
+Pucst_PST78_1	Puccinia_striiformis_f._sp._tritici_PST-78_v1.0
+Tubae1	Tuber_aestivum_var._urcinatum_v1.0
+CoeRSA2702_1	Coemansia_sp._RSA_2702_v1.0
+Coespir1	Coemansia_spiralis_CBS_109367_v1.0
+CoeRSA353_1	Coemansia_sp._RSA_353_v1.0
+Disdec1	Dissophora_decumbens_NRRL_22416_v1.0
+Phlcen1	Phlebia_centrifuga_FBCC195_
+CoeRSA2607_1	Coemansia_sp._RSA_2607_v1.0
+CoeBC34962_1	Coemansia_sp._BCRC_34962_v1.0
+CoeRSA678_1	Coemansia_sp._RSA_678_v1.0
+CoeRSA1287_1	Coemansia_sp._RSA_1287_v1.0
+Rhior3	Rhizopus_delemar_99-880_from_Broad
+Mucend1	Mucor_endophyticus
+CoeRSA2704_1	Coemansia_sp._RSA_2704_v1.0
+Morsel1	Lunasporangiospora_selenospora_KOD1015_v1.0
+CoeRSA1878_1	Coemansia_sp._RSA_1878_v1.0
+Muclan1	Mucor_lanceolatus
+Coeere1	Coemansia_erecta_IMI_279145_v1.0
+CoeRSA355_1	Coemansia_sp._RSA_355_v1.0
+CoeRSA2440_1	Coemansia_sp._RSA_2440_v1.0
+CoeRSA520_1	Coemansia_sp._RSA_520_v1.0
+CoeRSA564_1	Coemansia_sp._RSA_564_v1.0
+CoeRSA1250_1	Coemansia_sp._RSA_1250_v1.0
+CoeRSA922_1	Coemansia_sp._RSA_922_v1.0
+CoeRSA2706_1	Coemansia_sp._RSA_2706_v1.0
+CoeRSA1085_1	Coemansia_sp._RSA_1085_v1.0
+Botci1	Botrytis_cinerea_v1.0
+CoeRSA521_1	Coemansia_sp._RSA_521_v1.0
+CoeRSA1797_1	Coemansia_sp._RSA_1797_v1.0
+Parpo1	Parauncinula_polyspora
+CoeRSA2131_1	Coemansia_sp._RSA_2131_v1.0
+CoeRSA1200_1	Coemansia_sp._RSA_1200_v1.0
+CoeRSA522_1	Coemansia_sp._RSA_522_v1.0
+Penexp1	Penicillium_expansum_d1
+CoeRSA1199_1	Coemansia_sp._RSA_1199_v1.0
+Coeaci1	Coemansia_aciculifera_CBS_190363_v1.0
+Aspram1	Aspergillus_rambellii_SRRC1468
+Tubma1	Tuber_magnatum_v1.0
+Rhoto_IFO1236_1	Rhodosporidium_toruloides_IFO1236_1
+CoeRSA2705_1	Coemansia_sp._RSA_2705_v1.0
+Digmar1	Digitatispora_marina_008cD1.1_v1.0
+CoeRSA1813_1	Coemansia_sp._RSA_1813_v1.0
+Hesve2finisherSC	Hesseltinella_vesiculosa_NRRL3301_v2.0
+CoeRSA2050_1	Coemansia_sp._RSA_2050_v1.0
+CoeRSA2522_1	Coemansia_sp._RSA_2522_v1.0
+Cryan2	Cryomyces_antarcticus_CBS_116301_v2.0
+Mucfus1	Mucor_fuscus
+Metfru2	Metschnikowia_fructicola_277
+CoeRSA986_1	Coemansia_sp._RSA_986_v1.0
+CoeRSA720_1	Coemansia_sp._RSA_720_v1.0
+Trapub1	Trametes_pubescens_FBCC735
+Polagg1_1	Polychytrium_aggregatum_JEL109_v1.0
+Acrchr1	Acremonium_chrysogenum_ATCC_11550
+Ophpic1	Ophiostoma_piceae_UAMH_11346
+Triham1	Trichoderma_hamatum_GD12
+Gaegr1	Gaeumannomyces_graminis_var._tritici_R3-111a-1
+Aspoch1432_1	Aspergillus_ochraceoroseus_SRRC1432
+Mabrmo1	Marssonina_brunnea_f._sp._monogermtubi_NL1
+Fusps1	Fusarium_pseudograminearum_CS3096
+Pyrtr1	Pyrenophora_tritici-repentis
+Seppo1	Septoria_populicola_v1.0
+Chagl_1	Chaetomium_globosum_v1.0
+Ascra1	Ascochyta_rabiei_ArDII
+Alttom1	Alternaria_tomatophila_BMP2032
+Chain1	Chaetosphaeria_innumera
+Escweb1	Escovopsis_weberi_CC031208-10
+Altbr1	Alternaria_brassicicola
+Cocpo1_1	Coccidioides_posadasii_C735_delta_SOWgp
