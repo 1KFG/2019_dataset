@@ -1,4 +1,4 @@
-portal,species,strain,taxonomy string
+Portal,Species,Strain,Taxonomy
 Olpbor1,Olpidium bornovanus,UBC_F19785,phylum:Olpidiomycota;subphylum:Olpidiomycotina;class:Olpidiomycetes;;family:Olpidiaceae;genus:Olpidium
 Aspfl2_3,Aspergillus flavus,NRRL3357,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Piromy_p0_1,Piromyces sp.,UH3-1,phylum:Chytridiomycota;;class:Neocallimastigomycetes;;family:Neocallimastigaceae;genus:Piromyces
@@ -232,8 +232,8 @@ Aspramb1,Aspergillus rambellii,100887,phylum:Ascomycota;subphylum:Pezizomycotina
 Asppal1_1,Aspergillus paleaceus,CBS_498.65,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspign1,Aspergillus igneus,CBS_466.65,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspgal1,Aspergillus galapagensis,CBS_117522,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
-Aspquaf1,Aspergillus quadrilineatus,(floriformis)_CBS_937.73,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
-Aspquag1,Aspergillus quadrilineatus,(gemmatus)_CBS_853.96,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
+Aspquaf1,Aspergillus quadrilineatus,_floriformis_CBS_937.73,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
+Aspquag1,Aspergillus quadrilineatus,_gemmatus_CBS_853.96,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Asptur1,Aspergillus turcosus,IBT_27921,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Asphir1,Aspergillus hiratsukae,CBS_294.93,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspfumig1,Aspergillus fumigatiaffinis,CBS_117186,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
@@ -347,15 +347,15 @@ MorAD185_1_1,Mortierella sp.,AD185,phylum:Mucoromycota;subphylum:Mortierellomyco
 PlePMI138_1,Pleosporaceae sp.,PMI_138,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Pleosporaceae;
 Leuca1,Leucangium carthusianum,GMNB180,phylum:Ascomycota;subphylum:Pezizomycotina;class:Pezizomycetes;;family:Helvellaceae;genus:Leucangium
 FusoxFo47,Fusarium oxysporum,Fo47,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-Fusoxmel1,Fusarium oxysporum,f._sp._melonis_(FoMelon)_NRRL_26406,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-Fusoxcon1,Fusarium oxysporum,f._sp._conglutinans_race_2_54008_(PHW808),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-Fusoxlyc1,Fusarium oxysporum,f._sp._lycopersici_MN25_(FoMN25)_NRRL_54003,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-Fusoxvas1,Fusarium oxysporum,f._sp._vasinfectum_25433_(Cotton),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
+Fusoxmel1,Fusarium oxysporum,f._sp._melonis_FoMelon_NRRL_26406,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
+Fusoxcon1,Fusarium oxysporum,f._sp._conglutinans_race_2_54008_PHW808_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
+Fusoxlyc1,Fusarium oxysporum,f._sp._lycopersici_MN25_FoMN25_NRRL_54003,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
+Fusoxvas1,Fusarium oxysporum,f._sp._vasinfectum_25433_Cotton_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Fusox32931,Fusarium oxysporum,NRRL_32931,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 LedTMI1633_1,Lentinula edodes,TMI1633,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
 Fusoxpis1,Fusarium oxysporum,f._sp._pisi_HDV247,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-Fusoxcub1,Fusarium oxysporum,f._sp._cubense_tropical_race_4_54006_(II5),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-Fusoxrad1,Fusarium oxysporum,f._sp._radicis-lycopersici_26381_(CL57),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
+Fusoxcub1,Fusarium oxysporum,f._sp._cubense_tropical_race_4_54006_II5_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
+Fusoxrad1,Fusarium oxysporum,f._sp._radicis-lycopersici_26381_CL57_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Fusoxrap1,Fusarium oxysporum,f._sp._raphani_54005,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Sphbr2,Sphaerosporella brunnea,Sb_GMNB300,phylum:Ascomycota;subphylum:Pezizomycotina;class:Pezizomycetes;;family:Pyronemataceae;genus:Sphaerosporella
 Magor1,Magnaporthe oryzae,70-15,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Pyriculariaceae;genus:Pyricularia
@@ -509,7 +509,7 @@ FusspF11_1,Fusarium sp.,FSSC_11,phylum:Ascomycota;subphylum:Pezizomycotina;class
 Parchr1,Paraphoma chrysanthemicola,MPI-SDFR-AT-0120,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Phaeosphaeriaceae;genus:Paraphoma
 Chafu1,Chaetomium funicola,MPI-SDFR-AT-0129,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Chaetomiaceae;genus:Dichotomopilus
 Phybla1,Phycomyces blakesleeanus,UBC1,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Phycomycetaceae;genus:Phycomyces
-YarliW29_1,Yarrowia lipolytica,CLIB89(W29),phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Dipodascaceae;genus:Yarrowia
+YarliW29_1,Yarrowia lipolytica,CLIB89_W29_,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Dipodascaceae;genus:Yarrowia
 Penatra1,Penicillium atramentosum,RS17,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
 Gervar1,Geranomyces variabilis,JEL559,phylum:Chytridiomycota;;class:Chytridiomycetes;;family:Powellomycetaceae;genus:Geranomyces
 Lentinedodes1,Lentinula edodes,W1-26,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
@@ -530,7 +530,7 @@ Schco2251_1,Schizophyllum commune,225.1,phylum:Basidiomycota;subphylum:Agaricomy
 Schco2071_1,Schizophyllum commune,207.1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Schizophyllaceae;genus:Schizophyllum
 Schco2231_1,Schizophyllum commune,223.1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Schizophyllaceae;genus:Schizophyllum
 Lyoat1,Lyophyllum atratum,CBS_144462,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Lyophyllaceae;genus:Lyophyllum
-Muccir1_3,Mucor lusitanicus,(circinelloides)_MU402,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Mucoraceae;genus:Mucor
+Muccir1_3,Mucor lusitanicus,_circinelloides_MU402,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Mucoraceae;genus:Mucor
 Melme_tre1,Melampsora medusae,f._sp._tremuloidae_Mmt05Ida529,phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Pucciniomycetes;;family:Melampsoraceae;genus:Melampsora
 Rhanym2_1,Rhamphospora nymphaeae,CBS_172.38,phylum:Basidiomycota;subphylum:Ustilaginomycotina;class:Exobasidiomycetes;;family:Rhamphosporaceae;genus:Rhamphospora
 Triple1,Trichoderma pleuroti,TPhu1,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Hypocreaceae;genus:Trichoderma
@@ -613,7 +613,7 @@ Hethyg1,Heterodoassansia hygrophilae,CBS_346.65,phylum:Basidiomycota;subphylum:U
 Suivar1,Suillus variegatus,UH-Sva-Z1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Suillaceae;genus:Suillus
 Echtin1,Echinodontium tinctorium,Aho-80,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Echinodontiaceae;genus:Echinodontium
 Aphpse1,Aphanobasidium pseudotsugae,OMC1630,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Pterulaceae;genus:Aphanobasidium
-Phlrad1,Phlebia radiata,Fr._isolate_79_FBCC0043,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Meruliaceae;genus:Phlebia
+Phlrad1,Phlebia radiata,Fr._isolate_79_FBCC0043_,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Meruliaceae;genus:Phlebia
 Mersum1,Meripilus sumstinei,FP_105329,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Meripilaceae;genus:Meripilus
 Hercor1,Hericium coralloides,FP-101451,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Hericiaceae;genus:Hericium
 Benpoi1,Benjaminiella poitrasii,RSA_903,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Mucoraceae;genus:Benjaminiella
@@ -696,7 +696,7 @@ Rhidi1,Rhizophagus diaphanus,,phylum:Mucoromycota;subphylum:Glomeromycotina;clas
 Anomyc1,Anomoporia myceliosa,MJL_4413,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Amylocorticiaceae;genus:Anomoloma
 Helpul1,Helicostylum pulchrum,RSA_2064,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Mucoraceae;genus:Helicostylum
 Psiser1,Psilocybe serbica,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Strophariaceae;genus:Psilocybe
-Chocucu1,Choanephora cucurbitarum,NRRL2744_(50),phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Choanephoraceae;genus:Choanephora
+Chocucu1,Choanephora cucurbitarum,NRRL2744_50_,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Choanephoraceae;genus:Choanephora
 Lacpsa1,Lactarius psammicola,BPL869,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Russulaceae;genus:Lactarius
 Stobe1,Stomiopeltis betulae,CBS114420,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;;family:Micropeltidaceae;genus:Stomiopeltis
 Myxme1,Myxozyma melibiosi,Phaff_52-87,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;;genus:Myxozyma
@@ -779,7 +779,7 @@ Mycreb1,Mycena rebaudengoi,CBHHK068,phylum:Basidiomycota;subphylum:Agaricomycoti
 Mycfil1,Mycena filopes,CBHHK001,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Mycenaceae;genus:Mycena
 Suicot1,Suillus cothurnatus,VC_1858,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Suillaceae;genus:Suillus
 Lenafn1,Lentinula afn.,lateritia_sp2_HRB7682_ss15,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
-Lenedo1,Lentinula edodes,Le(Bin)_0899_ss11,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
+Lenedo1,Lentinula edodes,Le_Bin_0899_ss11,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
 Lenrap1,Lentinula raphanica,INPA1701G_ss19,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
 Lenlat1,Lentinula lateritia,RHP3577_ss4,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Omphalotaceae;genus:Lentinula
 Plecuc1,Plectosphaerella cucumerina,RP01,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Plectosphaerellaceae;genus:Plectosphaerella
@@ -1053,7 +1053,7 @@ Spalat1,Sparassis latifolia,CCMJ1100,phylum:Basidiomycota;subphylum:Agaricomycot
 Rusrug1,Russula rugulosa,BPL654,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Russulaceae;genus:Russula
 Crypo1,Cryptodiaporthe populea,CFL2025,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Gnomoniaceae;genus:Cryptodiaporthe
 Bisnum1,Biscogniauxia nummularia,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Xylariomycetidae;family:Xylariaceae;genus:Biscogniauxia
-Asplac1,Aspergillus niger,(lacticoffeatus)_CBS_101883,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
+Asplac1,Aspergillus niger,_lacticoffeatus_CBS_101883,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 MarPMI226,Mariannaea sp.,PMI_226,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Mariannaea
 Talpro1,Talaromyces proteolyticus,PMI_201,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Trichocomaceae;genus:Talaromyces
 Ilyrob1,Ilyonectria robusta,PMI_751,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Ilyonectria
@@ -1255,7 +1255,7 @@ Morimp1,Morchella importuna,SCYDJ1-A1,phylum:Ascomycota;subphylum:Pezizomycotina
 Helsul1,Heliocybe sulcata,OMC1185,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;;genus:Heliocybe
 Lenvul1,Lentinellus vulpinus,AHS73672-sp,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Auriscalpiaceae;genus:Lentinellus
 Mereb1,Meredithblackwellia eburnea,MCA_4105,phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Microbotryomycetes;;family:Kriegeriaceae;genus:Meredithblackwellia
-Naose1,Naohidea sebacea,CBS_8477_(P95),phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Cystobasidiomycetes;;family:Naohideaceae;genus:Naohidea
+Naose1,Naohidea sebacea,CBS_8477_P95_,phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Cystobasidiomycetes;;family:Naohideaceae;genus:Naohidea
 Pleery1,Pleurotus eryngii,ATCC_90797,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Pleurotaceae;genus:Pleurotus
 Micmi1,Microthyrium microscopicum,CBS_115976,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;;family:Microthyriaceae;genus:Microthyrium
 Pucgr2,Puccinia graminis,f._sp._tritici,phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Pucciniomycetes;;family:Pucciniaceae;genus:Puccinia
@@ -1363,7 +1363,7 @@ Aspni_bvT_1,Aspergillus niger,van_Tieghem_ATCC_13496,phylum:Ascomycota;subphylum
 Aspcam1,Aspergillus campestris,IBT_28561,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspnov1,Aspergillus novofumigatus,IBT_16806,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspste1,Aspergillus steynii,IBT_23096,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
-Aspph1,Aspergillus niger,(phoenicis_Corda)_Thom_ATCC_13157,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
+Aspph1,Aspergillus niger,_phoenicis_Corda_Thom_ATCC_13157,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Rambr1,Ramicandelaber brevisporus,CBS_109374,phylum:Zoopagomycota;subphylum:Kickxellomycotina;;;family:Ramicandelaberaceae;genus:Ramicandelaber
 Rhisa1,Rhizopogon salebrosus,TDB-379,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Rhizopogonaceae;genus:Rhizopogon
 Conth1,Conidiobolus thromboides,FSU_785,phylum:Zoopagomycota;subphylum:Entomophthoromycotina;class:Entomophthoromycetes;;family:Ancylistaceae;genus:Conidiobolus
@@ -1426,7 +1426,7 @@ Rhomi1,Cystobasidium minutum,MCA_4210,phylum:Basidiomycota;subphylum:Pucciniomyc
 Gyrli1,Gyrodon lividus,BX,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Gyrodontaceae;genus:Gyrodon
 Tilan2,Tilletiaria anomala,UBC_951,phylum:Basidiomycota;subphylum:Ustilaginomycotina;class:Exobasidiomycetes;;family:Tilletiariaceae;genus:Tilletiaria
 Thian1,Thielavia antarctica,CBS_123565,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Chaetomiaceae;genus:Thielavia
-Ramac1,Ramaria rubella,(R._acris)_UT-36052-T,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Phallomycetidae;family:Gomphaceae;genus:Ramaria
+Ramac1,Ramaria rubella,_R._acris_UT-36052-T,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Phallomycetidae;family:Gomphaceae;genus:Ramaria
 Cadsp1,Cadophora sp.,DSE1049,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;;genus:Cadophora
 Sacpr1,Saccharata proteae,CBS_121410,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;;family:Saccharataceae;genus:Saccharata
 Aspni_NRRL3_1,Aspergillus niger,NRRL3,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
@@ -1590,7 +1590,7 @@ SacceM3839_1,Saccharomyces cerevisiae,M3839,phylum:Ascomycota;subphylum:Saccharo
 Diocr1,Dioszegia cryoxerica,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Bulleribasidiaceae;genus:Dioszegia
 Sclsc1,Sclerotinia sclerotiorum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Sclerotiniaceae;genus:Sclerotinia
 Cucbe1,Cucurbitaria berberidis,CBS_394.84,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Cucurbitariaceae;genus:Cucurbitaria
-Yarli1,Yarrowia lipolytica,(strain_CLIB122),phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Dipodascaceae;genus:Yarrowia
+Yarli1,Yarrowia lipolytica,_strain_CLIB122_,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Dipodascaceae;genus:Yarrowia
 Schpo1,Schizosaccharomyces pombe,,phylum:Ascomycota;subphylum:Taphrinomycotina;class:Schizosaccharomycetes;;family:Schizosaccharomycetaceae;genus:Schizosaccharomyces
 Aspcl1,Aspergillus clavatus,NRRL_1_from_AspGD,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspfl1,Aspergillus flavus,NRRL3357,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
@@ -1601,14 +1601,14 @@ Symko1,Symbiotaphrina kochii,,phylum:Ascomycota;subphylum:Pezizomycotina;class:X
 Aplpr1,Aplosporella prunicola,CBS_121.167,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;;family:Aplosporellaceae;genus:Aplosporella
 Ilysp1,Ilyonectria sp.,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Ilyonectria
 Myrdu1,Myriangium duriaei,CBS_260.36,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Myriangiaceae;genus:Myriangium
-Gloac1,Glomerella acutata,(Colletotrichum_fiorinae_MH_18),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
+Gloac1,Glomerella acutata,_Colletotrichum_fiorinae_MH_18_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
 Monru1,Monascus ruber,NRRL_1597,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Monascus
 Neofi1,Neosartorya fischeri,NRRL_181,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspte1,Aspergillus terreus,NIH_2624,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspor1,Aspergillus oryzae,RIB40,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspfu1,Aspergillus fumigatus,Af293_from_AspGD,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Melsp1,Melanconium sp.,NRRL_54901,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Melanconidaceae;genus:Melanconium
-Gloci1,Glomerella cingulata,23_(Colletotrichum_gloeosporoides_23),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
+Gloci1,Glomerella cingulata,23_Colletotrichum_gloeosporoides_23_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
 Aspzo1,Aspergillus zonatus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicilliopsis
 Aspgl1,Aspergillus glaucus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Hebcy2,Hebeloma cylindrosporum,h7,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Cortinariaceae;genus:Hebeloma
@@ -1665,7 +1665,7 @@ PirE2_1,Piromyces sp.,E2,phylum:Chytridiomycota;;class:Neocallimastigomycetes;;f
 Picme2,Pichia membranifaciens,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Pichiaceae;genus:Pichia
 Cerzm1,Cercospora zeae-maydis,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Mycosphaerellaceae;genus:Cercospora
 Plicr1,Plicaturopsis crispa,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Amylocorticiaceae;genus:Plicaturopsis
-Serla_varsha1,Serpula himantioides,(S.lacrymans_var_shastensis)_MUCL38935,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Serpulaceae;genus:Serpula
+Serla_varsha1,Serpula himantioides,_S.lacrymans_var_shastensis_MUCL38935,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Serpulaceae;genus:Serpula
 CocheC5_3,Cochliobolus heterostrophus,C5,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Pleosporaceae;genus:Bipolaris
 Saico1,Saitoella complicata,NRRL_Y-17804,phylum:Ascomycota;subphylum:Taphrinomycotina;;;;genus:Saitoella
 CocheC4_1,Cochliobolus heterostrophus,C4,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Pleosporaceae;genus:Bipolaris
@@ -1681,7 +1681,7 @@ Oidma1,Oidiodendron maius,Zn,phylum:Ascomycota;subphylum:Pezizomycotina;class:Le
 Cocsa1,Cochliobolus sativus,ND90Pr,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Pleosporaceae;genus:Bipolaris
 Canca1,Tortispora caseinolytica,Y-17796,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Trigonopsidaceae;genus:Tortispora
 Lipst1_1,Lipomyces starkeyi,NRRL_Y-11557,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Lipomycetaceae;genus:Lipomyces
-Bauco1,Baudoinia compniacensis,UAMH_10762_(4089826),phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Teratosphaeriaceae;genus:Baudoinia
+Bauco1,Baudoinia compniacensis,UAMH_10762_4089826_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Teratosphaeriaceae;genus:Baudoinia
 TrireRUTC30_1,Trichoderma reesei,RUT_C-30,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Hypocreaceae;genus:Trichoderma
 Phlgi1,Phlebiopsis gigantea,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Phanerochaetaceae;genus:Phlebiopsis
 Bjead1_1,Bjerkandera adusta,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Phanerochaetaceae;genus:Bjerkandera
@@ -1703,7 +1703,7 @@ Pyrtt1,Pyrenophora teres,f._teres,phylum:Ascomycota;subphylum:Pezizomycotina;cla
 Dacsp1,Dacryopinax primogenitus,DJM_731_SSP1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Dacrymycetes;;family:Dacrymycetaceae;genus:Dacryopinax
 Lacbi2,Laccaria bicolor,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Tricholomataceae;genus:Laccaria
 Lepmu1,Leptosphaeria maculans,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Leptosphaeriaceae;genus:Leptosphaeria
-Spoth2,Myceliophthora thermophila,(Sporotrichum_thermophile),phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Chaetomiaceae;genus:Thermothelomyces
+Spoth2,Myceliophthora thermophila,_Sporotrichum_thermophile_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Chaetomiaceae;genus:Thermothelomyces
 Thite2,Thielavia terrestris,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Chaetomiaceae;genus:Thielavia
 Aspnid1,Aspergillus nidulans,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspac1,Aspergillus aculeatus,ATCC16872,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
@@ -1730,7 +1730,7 @@ Triat2,Trichoderma atroviride,,phylum:Ascomycota;subphylum:Pezizomycotina;class:
 Mycfi2,Pseudocercospora (Mycosphaerella),fijiensis,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Mycosphaerellaceae;genus:Pseudocercospora
 Agabi_varbur_1,Agaricus bisporus,var._burnettii_JB137-S8,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Agaricaceae;genus:Agaricus
 PleosPC9_1,Pleurotus ostreatus,PC9,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Pleurotaceae;genus:Pleurotus
-Agabi_varbisH97_2,Agaricus bisporus,var_bisporus_(H97),phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Agaricaceae;genus:Agaricus
+Agabi_varbisH97_2,Agaricus bisporus,var_bisporus_H97_,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Agaricaceae;genus:Agaricus
 Aspca3,Aspergillus carbonarius,ITEM_5010_v3,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 SerlaS7_3_2,Serpula lacrymans,S7.3,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Serpulaceae;genus:Serpula
 Neute_mat_a1,Neurospora tetrasperma,FGSC_2509_mat_a,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Sordariaceae;genus:Neurospora
@@ -1745,8 +1745,8 @@ Neudi1,Neurospora discreta,FGSC_8579_mat_A,phylum:Ascomycota;subphylum:Pezizomyc
 Necha2,Nectria haematococca,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Trire2,Trichoderma reesei,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Hypocreaceae;genus:Trichoderma
 Pospl1,Postia placenta,MAD_698-R,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Dacryobolaceae;genus:Postia
-SmithFen_BAUOC,Cryptomycota sp.,Smith's_Fen_BAUOC_(Environmental_single-cell),phylum:Cryptomycota;;;;;
-SmithFen_BAUOG,Chytridiomycota sp.,Smith's_Fen_BAUOG_(Environmental_single-cell),phylum:Chytridiomycota;;;;;
+SmithFen_BAUOC,Cryptomycota sp.,Smith's_Fen_BAUOC_Environmental_single-cell_,phylum:Cryptomycota;;;;;
+SmithFen_BAUOG,Chytridiomycota sp.,Smith's_Fen_BAUOG_Environmental_single-cell_,phylum:Chytridiomycota;;;;;
 CoeRSA1935_1,Coemansia sp.,RSA_1935,phylum:Zoopagomycota;subphylum:Kickxellomycotina;class:Kickxellomycetes;;family:Kickxellaceae;genus:Coemansia
 Sacarb1,Saccharomyces arboricola,H-6,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
 CoeRSA2052_1,Coemansia sp.,RSA_2052,phylum:Zoopagomycota;subphylum:Kickxellomycotina;class:Kickxellomycetes;;family:Kickxellaceae;genus:Coemansia
