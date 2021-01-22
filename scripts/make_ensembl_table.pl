@@ -13,6 +13,17 @@ tie %lookup, "DB_File", $cachefile, O_RDWR | O_CREAT, 0666, $DB_HASH
 my $namesfile = 'tmp/taxa/names.dmp';
 my $nodesfile = 'tmp/taxa/nodes.dmp';
 
+if ( ! -f $namesfile ) {
+  use Cwd qw(getcwd);
+  my $cwd = getcwd();
+  mkdir('tmp');
+  mkdir ('tmp/taxa');
+
+  chdir('tmp/taxa');
+  `curl https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz | tar zxf -`;
+  chdir($cwd);
+}
+
 my $db = Bio::DB::Taxonomy->new(
         -source    => 'sqlite',
         -nodesfile => $nodesfile,
