@@ -44,6 +44,7 @@ foreach my $file ( readdir(DIR) ) {
 
         if ( !$h ) {
             $h = $db->get_taxonid($genus);
+            warn("going to search for genus '$genus' since '$species_string' didn't work");
         }
         my $node = $db->get_taxon( -taxonid => $h );
 
