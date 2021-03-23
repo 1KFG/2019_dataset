@@ -63,7 +63,7 @@ Pezoloma_ericae,Pezoloma,ericae,,phylum:Ascomycota;subphylum:Pezizomycotina;clas
 Pseudocercospora_fijiensis_cirad86,Pseudocercospora,fijiensis,cirad86,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Mycosphaerellaceae;genus:Pseudocercospora
 Aspergillus_cristatus,Aspergillus,cristatus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Cryptococcus_gattii_ca1280,Cryptococcus,gattii,ca1280,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
-_candida_arabinofermentans_nrrl_yb_2248,,candida,arabinofermentans_nrrl_yb_2248,;;;;;
+candida_arabinofermentans_nrrl_yb_2248,candida,arabinofermentans,nrrl_yb_2248,
 Meliniomyces_variabilis_f,Meliniomyces,variabilis,f,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Hyaloscyphaceae;genus:Hyaloscypha
 Stagonospora_sp_src1lsm3a,Stagonospora,sp,src1lsm3a,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Massarinaceae;genus:Stagonospora
 Saccharomyces_kudriavzevii_ifo_1802,Saccharomyces,kudriavzevii,ifo_1802,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
@@ -106,7 +106,7 @@ Penicillium_occitanis,Penicillium,occitanis,,phylum:Ascomycota;subphylum:Pezizom
 Ascoidea_rubescens_dsm_1968,Ascoidea,rubescens,dsm_1968,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Ascoideaceae;genus:Ascoidea
 Fusarium_fujikuroi,Fusarium,fujikuroi,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Pseudogymnoascus_destructans,Pseudogymnoascus,destructans,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Pseudeurotiaceae;genus:Pseudogymnoascus
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,
 Pseudogymnoascus_sp_vkm_f_4281_fw_2241_,Pseudogymnoascus,sp,vkm_f_4281_fw_2241_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Pseudeurotiaceae;genus:Pseudogymnoascus
 Puccinia_striiformis_f_sp_tritici_pst_78,Puccinia,striiformis,f_sp_tritici_pst_78,phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Pucciniomycetes;;family:Pucciniaceae;genus:Puccinia
 Zymoseptoria_tritici_st99ch_1e4,Zymoseptoria,tritici,st99ch_1e4,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Mycosphaerellaceae;genus:Zymoseptoria
@@ -121,12 +121,12 @@ Verticillium_dahliae,Verticillium,dahliae,,phylum:Ascomycota;subphylum:Pezizomyc
 Penicillium_italicum,Penicillium,italicum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
 Penicillium_decumbens,Penicillium,decumbens,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
 Naumovozyma_castellii_cbs_4309,Naumovozyma,castellii,cbs_4309,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Naumovozyma
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Aspergillus_oryzae,Aspergillus,oryzae,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Cryptococcus_neoformans_var_grubii_bt120,Cryptococcus,neoformans,var_grubii_bt120,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Macrophomina_phaseolina_ms6,Macrophomina,phaseolina,ms6,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;;family:Botryosphaeriaceae;genus:Macrophomina
-_candida_auris,,candida,auris,;;;;;
+candida_auris,candida,auris,,
 Paracoccidioides_brasiliensis_pb18,Paracoccidioides,brasiliensis,pb18,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;;genus:Paracoccidioides
 Cryptococcus_neoformans_var_grubii_bt1,Cryptococcus,neoformans,var_grubii_bt1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
 Cryptococcus_neoformans_var_grubii_mw_rsa852,Cryptococcus,neoformans,var_grubii_mw_rsa852,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
@@ -176,7 +176,7 @@ Tolypocladium_paradoxum,Tolypocladium,paradoxum,,phylum:Ascomycota;subphylum:Pez
 Aspergillus_arachidicola,Aspergillus,arachidicola,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Saccharomyces_cerevisiae_yjm1388,Saccharomyces,cerevisiae,yjm1388,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
 Puccinia_coronata_var_avenae_f_sp_avenae,Puccinia,coronata,var_avenae_f_sp_avenae,phylum:Basidiomycota;subphylum:Pucciniomycotina;class:Pucciniomycetes;;family:Pucciniaceae;genus:Puccinia
-_candida_duobushaemulonis,,candida,duobushaemulonis,;;;;;
+candida_duobushaemulonis,candida,duobushaemulonis,,
 Nematocida_displodere,Nematocida,displodere,,phylum:Microsporidia;;;;;genus:Nematocida
 Torulaspora_delbrueckii,Torulaspora,delbrueckii,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Torulaspora
 Saccharomyces_cerevisiae_yjm981,Saccharomyces,cerevisiae,yjm981,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
@@ -211,7 +211,7 @@ Lachancea_meyersii_cbs_8951,Lachancea,meyersii,cbs_8951,phylum:Ascomycota;subphy
 Cryptococcus_gattii_vgii_ca1014,Cryptococcus,gattii,vgii_ca1014,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
 Wallemia_mellicola_cbs_633_66,Wallemia,mellicola,cbs_633_66,phylum:Basidiomycota;subphylum:Wallemiomycotina;class:Wallemiomycetes;;family:Wallemiaceae;genus:Wallemia
 Aureobasidium_pullulans_exf_150,Aureobasidium,pullulans,exf_150,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Saccotheciaceae;genus:Aureobasidium
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Pseudogymnoascus_verrucosus,Pseudogymnoascus,verrucosus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Pseudeurotiaceae;genus:Pseudogymnoascus
 Pseudogymnoascus_sp_vkm_f_4514_fw_929_,Pseudogymnoascus,sp,vkm_f_4514_fw_929_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Pseudeurotiaceae;genus:Pseudogymnoascus
 Exserohilum_turcica_et28a,Exserohilum,turcica,et28a,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Pleosporaceae;genus:Exserohilum
@@ -271,7 +271,7 @@ Cryptococcus_neoformans_var_grubii_c45,Cryptococcus,neoformans,var_grubii_c45,ph
 Suhomyces_tanzawaensis_nrrl_y_17324,Suhomyces,tanzawaensis,nrrl_y_17324,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Debaryomycetaceae;genus:Suhomyces
 Cryptococcus_neoformans_var_grubii_d17_1,Cryptococcus,neoformans,var_grubii_d17_1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
 Ogataea_polymorpha,Ogataea,polymorpha,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Pichiaceae;genus:Ogataea
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Histoplasma_capsulatum_h143,Histoplasma,capsulatum,h143,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Ajellomycetaceae;genus:Histoplasma
 Paramicrosporidium_saccamoebae,Paramicrosporidium,saccamoebae,,phylum:Cryptomycota;;;;;genus:Paramicrosporidium
 Penicillium_arizonense,Penicillium,arizonense,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
@@ -395,7 +395,7 @@ Fusarium_oxysporum_f_sp_cubense_race_1,Fusarium,oxysporum,f_sp_cubense_race_1,ph
 Trichophyton_equinum_cbs_127_97,Trichophyton,equinum,cbs_127_97,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Arthrodermataceae;genus:Trichophyton
 Saitoella_complicata_nrrl_y_17804,Saitoella,complicata,nrrl_y_17804,phylum:Ascomycota;subphylum:Taphrinomycotina;;;;genus:Saitoella
 Saccharomyces_cerevisiae_yjm1386,Saccharomyces,cerevisiae,yjm1386,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
-_candida_auris,,candida,auris,;;;;;
+candida_auris,candida,auris,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Metschnikowiaceae;genus:Clavispora
 Clavispora_lusitaniae_atcc_42720,Clavispora,lusitaniae,atcc_42720,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Metschnikowiaceae;genus:Clavispora
 Fusarium_oxysporum,Fusarium,oxysporum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Cryptococcus_neoformans_var_grubii,Cryptococcus,neoformans,var_grubii,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
@@ -419,7 +419,7 @@ Hypsizygus_marmoreus,Hypsizygus,marmoreus,,phylum:Basidiomycota;subphylum:Agaric
 Candida_albicans_p75010,Candida,albicans,p75010,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Debaryomycetaceae;genus:Candida
 Penicillium_freii,Penicillium,freii,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
 Fusarium_graminearum,Fusarium,graminearum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
-_candida_intermedia,,candida,intermedia,;;;;;
+candida_intermedia,candida,intermedia,,
 Fusarium_fujikuroi,Fusarium,fujikuroi,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Enterospora_canceri,Enterospora,canceri,,phylum:Microsporidia;;;;family:Enterocytozoonidae;genus:Enterospora
 Neosartorya_fischeri,Neosartorya,fischeri,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
@@ -441,13 +441,13 @@ Pseudogymnoascus_destructans_20631_21,Pseudogymnoascus,destructans,20631_21,phyl
 Nannizzia_gypsea_cbs_118893,Nannizzia,gypsea,cbs_118893,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Arthrodermataceae;genus:Nannizzia
 Moesziomyces_antarcticus_t_34,Moesziomyces,antarcticus,t_34,phylum:Basidiomycota;subphylum:Ustilaginomycotina;class:Ustilaginomycetes;;family:Ustilaginaceae;genus:Moesziomyces
 Schizosaccharomyces_japonicus,Schizosaccharomyces,japonicus,,phylum:Ascomycota;subphylum:Taphrinomycotina;class:Schizosaccharomycetes;;family:Schizosaccharomycetaceae;genus:Schizosaccharomyces
-_candida_tenuis_atcc_10573,,candida,tenuis_atcc_10573,;;;;;
+candida_tenuis_atcc_10573,candida,tenuis,atcc_10573,
 Cryptococcus_neoformans_var_grubii_a2_102_5,Cryptococcus,neoformans,var_grubii_a2_102_5,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
 Cryptococcus_gattii_vgii_la55,Cryptococcus,gattii,vgii_la55,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
 Saccharomyces_cerevisiae_yjm1355,Saccharomyces,cerevisiae,yjm1355,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
 Cordyceps_fumosorosea_arsef_2679,Cordyceps,fumosorosea,arsef_2679,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Cordycipitaceae;genus:Cordyceps
 Termitomyces_sp_j132,Termitomyces,sp,j132,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Lyophyllaceae;genus:Termitomyces
-_candida_pseudohaemulonis,,candida,pseudohaemulonis,;;;;;
+candida_pseudohaemulonis,candida,pseudohaemulonis,,
 Sclerotinia_sclerotiorum,Sclerotinia,sclerotiorum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Sclerotiniaceae;genus:Sclerotinia
 Saccharomyces_cerevisiae_yjm451,Saccharomyces,cerevisiae,yjm451,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
 Cryptococcus_neoformans_var_grubii_mw_rsa36,Cryptococcus,neoformans,var_grubii_mw_rsa36,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
@@ -554,7 +554,7 @@ Verticillium_dahliae,Verticillium,dahliae,,phylum:Ascomycota;subphylum:Pezizomyc
 Aspergillus_ochraceoroseus,Aspergillus,ochraceoroseus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Capronia_epimyces_cbs_606_96,Capronia,epimyces,cbs_606_96,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Chaetothyriomycetidae;family:Herpotrichiellaceae;genus:Capronia
 Pseudogymnoascus_sp_vkm_f_4519_fw_2642_,Pseudogymnoascus,sp,vkm_f_4519_fw_2642_,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Pseudeurotiaceae;genus:Pseudogymnoascus
-_candida_auris,,candida,auris,;;;;;
+candida_auris,candida,auris,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Metschnikowiaceae;genus:Clavispora
 Kalmanozyma_brasiliensis_ghg001,Kalmanozyma,brasiliensis,ghg001,phylum:Basidiomycota;subphylum:Ustilaginomycotina;class:Ustilaginomycetes;;family:Ustilaginaceae;genus:Kalmanozyma
 Aspergillus_piperis_cbs_112811,Aspergillus,piperis,cbs_112811,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Aspergillus_luchuensis_cbs_106_47,Aspergillus,luchuensis,cbs_106_47,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
@@ -594,7 +594,7 @@ Cordyceps_sp_rao_2017,Cordyceps,sp,rao_2017,phylum:Ascomycota;subphylum:Pezizomy
 Aspergillus_nidulans,Aspergillus,nidulans,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Piromyces_finnis,Piromyces,finnis,,phylum:Chytridiomycota;;class:Neocallimastigomycetes;;family:Neocallimastigaceae;genus:Piromyces
 Sporothrix_schenckii_1099_18,Sporothrix,schenckii,1099_18,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Sordariomycetidae;family:Ophiostomataceae;genus:Sporothrix
-_candida_auris,,candida,auris,;;;;;
+candida_auris,candida,auris,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Metschnikowiaceae;genus:Clavispora
 Cryptococcus_gattii_vgii_2001_935_1,Cryptococcus,gattii,vgii_2001_935_1,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
 Aspergillus_niger,Aspergillus,niger,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Cercospora_zeina,Cercospora,zeina,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Dothideomycetidae;family:Mycosphaerellaceae;genus:Cercospora
@@ -615,7 +615,7 @@ Fonsecaea_erecta,Fonsecaea,erecta,,phylum:Ascomycota;subphylum:Pezizomycotina;cl
 Corynespora_cassiicola_philippines,Corynespora,cassiicola,philippines,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Corynesporascaceae;genus:Corynespora
 Colletotrichum_graminicola,Colletotrichum,graminicola,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
 Moesziomyces_aphidis_dsm_70725,Moesziomyces,aphidis,dsm_70725,phylum:Basidiomycota;subphylum:Ustilaginomycotina;class:Ustilaginomycetes;;family:Ustilaginaceae;genus:Moesziomyces
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Hebeloma_cylindrosporum_h7,Hebeloma,cylindrosporum,h7,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Cortinariaceae;genus:Hebeloma
 Saccharomyces_cerevisiae_yjm1078,Saccharomyces,cerevisiae,yjm1078,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
 Candida_albicans_p87,Candida,albicans,p87,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Debaryomycetaceae;genus:Candida
@@ -632,7 +632,7 @@ Moniliophthora_perniciosa_fa553,Moniliophthora,perniciosa,fa553,phylum:Basidiomy
 Aspergillus_ustus,Aspergillus,ustus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Komagataella_phaffii_gs115,Komagataella,phaffii,gs115,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Phaffomycetaceae;genus:Komagataella
 Mortierella_verticillata_nrrl_6337,Mortierella,verticillata,nrrl_6337,phylum:Mucoromycota;subphylum:Mortierellomycotina;class:Mortierellomycetes;;family:Mortierellaceae;genus:Podila
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Trametes_cinnabarina,Trametes,cinnabarina,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Polyporaceae;genus:Trametes
 Acremonium_chrysogenum_atcc_11550,Acremonium,chrysogenum,atcc_11550,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;;genus:Acremonium
 Absidia_repens,Absidia,repens,,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Mucoromycetes;;family:Cunninghamellaceae;genus:Absidia
@@ -696,7 +696,7 @@ Saccharomyces_sp_boulardii_,Saccharomyces,sp,boulardii_,phylum:Ascomycota;subphy
 Uncinocarpus_reesii_1704,Uncinocarpus,reesii,1704,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Onygenaceae;genus:Uncinocarpus
 Saccharomyces_cerevisiae_yjm1341,Saccharomyces,cerevisiae,yjm1341,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
 Pseudogymnoascus_sp_wsf_3629,Pseudogymnoascus,sp,wsf_3629,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;family:Pseudeurotiaceae;genus:Pseudogymnoascus
-_candida_haemulonis,,candida,haemulonis,;;;;;
+candida_haemulonis,candida,haemulonis,,
 Stemphylium_lycopersici,Stemphylium,lycopersici,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Dothideomycetes;subclass:Pleosporomycetidae;family:Pleosporaceae;genus:Stemphylium
 Trametes_pubescens,Trametes,pubescens,,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;;family:Polyporaceae;genus:Trametes
 Saccharomyces_cerevisiae_yjm1252,Saccharomyces,cerevisiae,yjm1252,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Saccharomyces
@@ -740,7 +740,7 @@ Rhizoctonia_solani_ag_8_wac10335,Rhizoctonia,solani,ag_8_wac10335,phylum:Basidio
 Bifiguratus_adelaidae,Bifiguratus,adelaidae,,phylum:Mucoromycota;subphylum:Mucoromycotina;class:Endogonomycetes;;;genus:Bifiguratus
 Penicillium_vulpinum,Penicillium,vulpinum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
 Spraguea_lophii_42_110,Spraguea,lophii,42_110,phylum:Microsporidia;;;;family:Spraguidae;genus:Spraguea
-_candida_auris,,candida,auris,;;;;;
+candida_auris,candida,auris,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Metschnikowiaceae;genus:Clavispora
 Paracoccidioides_brasiliensis,Paracoccidioides,brasiliensis,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;;genus:Paracoccidioides
 Ogataea_parapolymorpha_dl_1,Ogataea,parapolymorpha,dl_1,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Pichiaceae;genus:Ogataea
 Cryptococcus_neoformans_var_grubii_ad2_60a,Cryptococcus,neoformans,var_grubii_ad2_60a,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Cryptococcus
@@ -793,7 +793,7 @@ Cryptococcus_neoformans_var_grubii_chc193,Cryptococcus,neoformans,var_grubii_chc
 Penicillium_flavigenum,Penicillium,flavigenum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Penicillium
 Trichophyton_rubrum_cbs_735_88,Trichophyton,rubrum,cbs_735_88,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Arthrodermataceae;genus:Trichophyton
 Colletotrichum_orbiculare,Colletotrichum,orbiculare,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Rhynchosporium_commune,Rhynchosporium,commune,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Leotiomycetes;;;genus:Rhynchosporium
 Fusarium_oxysporum_f_sp_melonis_26406,Fusarium,oxysporum,f_sp_melonis_26406,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Dactylellina_haptotyla_cbs_200_50,Dactylellina,haptotyla,cbs_200_50,phylum:Ascomycota;subphylum:Pezizomycotina;class:Orbiliomycetes;;family:Orbiliaceae;genus:Dactylellina
@@ -811,7 +811,7 @@ Tortispora_caseinolytica_nrrl_y_17796,Tortispora,caseinolytica,nrrl_y_17796,phyl
 Pisolithus_tinctorius_marx_270,Pisolithus,tinctorius,marx_270,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Agaricomycetes;subclass:Agaricomycetidae;family:Pisolithaceae;genus:Pisolithus
 Pseudomicrostroma_glucosiphilum,Pseudomicrostroma,glucosiphilum,,phylum:Basidiomycota;subphylum:Ustilaginomycotina;class:Exobasidiomycetes;;;genus:Pseudomicrostroma
 Colletotrichum_incanum,Colletotrichum,incanum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Glomerellaceae;genus:Colletotrichum
-_candida_intermedia,,candida,intermedia,;;;;;
+candida_intermedia,candida,intermedia,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Metschnikowiaceae;genus:Clavispora
 Blastomyces_gilchristii_slh14081,Blastomyces,gilchristii,slh14081,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Ajellomycetaceae;genus:Blastomyces
 Candida_albicans_12c,Candida,albicans,12c,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Debaryomycetaceae;genus:Candida
 Kwoniella_heveanensis_cbs_569,Kwoniella,heveanensis,cbs_569,phylum:Basidiomycota;subphylum:Agaricomycotina;class:Tremellomycetes;;family:Cryptococcaceae;genus:Kwoniella
@@ -877,7 +877,7 @@ Rhizopogon_vinicolor_am_or11_026,Rhizopogon,vinicolor,am_or11_026,phylum:Basidio
 Endocarpon_pusillum_z07020,Endocarpon,pusillum,z07020,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Chaetothyriomycetidae;family:Verrucariaceae;genus:Endocarpon
 Aspergillus_clavatus,Aspergillus,clavatus,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Eurotiomycetes;subclass:Eurotiomycetidae;family:Aspergillaceae;genus:Aspergillus
 Millerozyma_farinosa_cbs_7064,Millerozyma,farinosa,cbs_7064,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Debaryomycetaceae;genus:Millerozyma
-_candida_glabrata,,candida,glabrata,;;;;;
+candida_glabrata,candida,glabrata,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Nakaseomyces
 Trichoderma_reesei_rut_c_30,Trichoderma,reesei,rut_c_30,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Hypocreaceae;genus:Trichoderma
 Fusarium_oxysporum,Fusarium,oxysporum,,phylum:Ascomycota;subphylum:Pezizomycotina;class:Sordariomycetes;subclass:Hypocreomycetidae;family:Nectriaceae;genus:Fusarium
 Zygosaccharomyces_bailii,Zygosaccharomyces,bailii,,phylum:Ascomycota;subphylum:Saccharomycotina;class:Saccharomycetes;;family:Saccharomycetaceae;genus:Zygosaccharomyces
